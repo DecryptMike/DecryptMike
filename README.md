@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <h1>Hi, I'm DecryptMike</h1>
+  <img src="Decrypt.png" alt="Your Image Description" />
 </p>
 
 I'm A Cyber Security Analyst, Computer Programmer & Software / Web Developer
