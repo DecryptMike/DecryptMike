@@ -1,6 +1,8 @@
 # 👽 Greetings, I'm Decrypt Mike 
 
-I Possess A Comprehensive Skill Set Spanning Various Domains, With A Strong Focus On Software Development, Data Analysis, & Cyber Security.
+I Possess A Comprehensive Skill Set Spanning Various Domains
+With A Strong Focus On Software Development
+Data Analysis, & Cyber Security
 
 ## 👾 About Me 
 
