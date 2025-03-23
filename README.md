@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <h3>Hi, I'm Decrypt Mike</h3>
+  <span style="font-size: 1em;"># Hi, I'm Decrypt Mike</span>
 </p>
 
-Welcome To My GitHub Profile. I'm A Cyber Security Analyst<br>Computer Programmer & Software/Web Developer
+<span style="font-size: 1em;">Welcome To My GitHub Profile. I'm A Cyber Security Analyst Computer Programmer & Software / Web Developer</span>
 
 ## 👾 About 
 
