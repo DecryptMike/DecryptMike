@@ -15,8 +15,8 @@ I Possess A Comprehensive Skill Set Spanning Various Domains<br>With A Strong Fo
 I Have A Diverse Skill Set, As Intricate As The Matrix Itself
 
 ### Software Applications
-- ## Development Tools: Docker (Intermediate), Git (Advanced), Jenkins (Intermediate), VS Code (Advanced)
-- ## Virtualization & Containerization: VirtualBox (Intermediate), VMware (Intermediate)
+- ## Development Tools:## Docker (Intermediate), Git (Advanced), Jenkins (Intermediate), VS Code (Advanced)
+- ## Virtualization & Containerization:## VirtualBox (Intermediate), VMware (Intermediate)
 - ## Network Tools: PuTTY (Intermediate), Wireshark (Advanced)
 - ## Data Visualization: Tableau (Intermediate), Power BI (Intermediate)
 - ## Cloud Platforms: AWS (Basic), Azure (Basic), Google Cloud Platform (Basic)
