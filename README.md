@@ -10,10 +10,6 @@
   * Cyber Security Analyst * Computer Programmer *  Software & Website Developer *
 </p>
 
-* Cyber Security Analyst
-* Computer Programmer
-* Software & Website Developer 
-
 ## 👾 About 
 
 - 🎓 B.S. Software Engineering @ WGU
