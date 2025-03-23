@@ -10,6 +10,9 @@ I Possess A Comprehensive Skill Set Spanning Various Domains<br>With A Strong Fo
 - 👩‍💻 Proficient In Various Programming Languages & Tools
 - ✊🏽 Vegan For The Animals
 
+## 🛠 Skills
+
+I Have A Diverse Skill Set, As Intricate As The Matrix Itself
 
 ### Software Applications
 - Development Tools: Docker (Intermediate), Git (Advanced), Jenkins (Intermediate), VS Code (Advanced)
