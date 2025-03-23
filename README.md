@@ -4,7 +4,7 @@ I Possess Comprehensive Skill Sets Spanning Various Domains<br>With A Strong Foc
 
 ## 👾 About 
 
-- 🎓 B.A. Software Engineering @ WGU
+- 🎓 B.S. Software Engineering @ WGU
 - 🧠 Always Challenging Myself To Learn Everything Tech
 - 🔒 Working Towards Further Pursuing My Career In Cyber Security/Data Analysis 
 - 👩‍💻 Proficient In Various Programming Languages & Tools
