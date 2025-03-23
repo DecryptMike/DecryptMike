@@ -1,4 +1,6 @@
-# 👽 Greetings, I'm Decrypt Mike 
+<center>
+  # 👽 Greetings, I'm Decrypt Mike 
+</center>
 
 I Possess A Comprehensive Skill Set Spanning Various Domains<br>With A Strong Focus On Software Development, Data Analysis, & Cyber Security
 
