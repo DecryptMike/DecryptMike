@@ -1,6 +1,6 @@
 # 👽 I'm Decrypt Mike 
 
-I Possess Comprehensive Skill Sets Spanning Various Domains<br>With A Strong Focus On Software Development, Data Analysis, & Cyber Security
+I Possess Comprehensive Skill Sets Spanning Various Domains<br>With A Strong Focus On Software Development, Data Analysis, And Cyber Security
 
 ## 👾 About Me 
 
@@ -46,15 +46,15 @@ I Have A Diverse Skill Set As Intricate As The Matrix Itself
 - Security Information and Event Management (SIEM) - Splunk (Intermediate), ELK Stack (Basic)
 - Cloud Security - AWS Security Services (Basic), Azure Security Center (Basic)
 - Vulnerability Assessment - Nessus (Basic), OpenVAS (Basic)
-- Security Automation - Python scripting for security tasks
+- Security Automation - Python Scripting For Security Tasks
 - Log Analysis - Google Chronicle (Basic)
 
 ### Key Improvements
-- Categorization - Maintained clear categories for easy readability.
-- Relevance - Emphasized tools and technologies directly related to your specified areas.
-- Depth - Provided a mix of advanced, intermediate, and basic skills to showcase a well-rounded profile.
-- Modern Tools - Included up-to-date technologies like Docker, cloud platforms, and modern JavaScript frameworks.
-- Balance - Maintained a balance between development, data, and security skills.
+- Categorization - Maintained Clear Categories For Easy Readability.
+- Relevance - Emphasized Tools And Technologies Directly Related To Your Specified Areas.
+- Depth - Provided A Mix Of Advanced, Intermediate, And Basic Skills To Showcase A Well-Rounded Profile.
+- Modern Tools - Included Up-To-Date Technologies Like Docker, Cloud Platforms, And Modern JavaScript Frameworks.
+- Balance - Maintained A Balance Between Development, Data, And Security Skills.
 
 ## 📫 How To Reach Me
 
