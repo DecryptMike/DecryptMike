@@ -2,7 +2,7 @@
 
 I Possess Comprehensive Skill Sets Spanning Various Domains<br>With A Strong Focus On Software Development, Data Analysis, And Cyber Security
 
-## 👾 About Me 
+## 👾 About 
 
 - 🎓 B.A. Software Engineering @ WGU
 - 🧠 Always Challenging Myself To Learn Everything Tech
@@ -53,7 +53,7 @@ I Possess Comprehensive Skill Sets Spanning Various Domains<br>With A Strong Foc
 - Modern Tools - Included Up-To-Date Technologies Like Docker, Cloud Platforms, And Modern JavaScript Frameworks.
 - Balance - Maintained A Balance Between Development, Data, And Security Skills.
 
-## 📫 Reach Out To Me
+## 📫 Contact
 
 [H4ck3rByt3s Profile](https://h4ck3rByt3s.systeme.io/profile)
   
