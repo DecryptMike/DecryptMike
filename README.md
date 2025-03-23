@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  * Cyber Security Analyst * Computer Programmer *  Software & Website Developer *
+  - Cyber Security Analyst - Computer Programmer - Software & Website Developer -
 </p>
 
 ## 👾 About 
