@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="matrix.gif" alt="Matrix Rain Animation" width="600" height="300" />
+  <img src="matrix-rain.gif" alt="Matrix Rain Animation" width="800" height="400" />
 </p>
 
-# Decrypt Mike 
+# Hi, I'm Decrpyt Mike
 
-I Possess Comprehensive Skill Sets Spanning Various Domains<br>With A Strong Focus On Software Development, Data Analysis, And Cyber Security
+Welcome To My GitHub Profile. I'm A Cyber Security Analyst/Computer Programmer & Software/Web Developer
 
 ## 👾 About 
 
