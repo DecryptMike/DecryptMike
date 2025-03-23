@@ -6,7 +6,7 @@
   <h1>Hi, I'm Decrypt Mike</h1>
 </p>
 
-I'm A Cyber Security Analyst<br>Computer Programmer & Software / Web Developer
+I'm A Cyber Security Analyst, Computer Programmer & Software / Web Developer
 
 ## 👾 About 
 
