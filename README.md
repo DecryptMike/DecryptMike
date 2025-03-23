@@ -4,7 +4,6 @@
 <p align="center">
   <h1>Hi, I'm Decrypt Mike</h1>
 </p>
-
 <span style="font-size: 1em;">Welcome To My GitHub Profile. I'm A Cyber Security Analyst Computer Programmer & Software / Web Developer</span>
 
 ## 👾 About 
