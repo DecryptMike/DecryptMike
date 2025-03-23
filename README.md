@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="matrix.gif" alt="Matrix Rain Animation" width="600" height="300" />
+</p>
+
 # Decrypt Mike 
 
 I Possess Comprehensive Skill Sets Spanning Various Domains<br>With A Strong Focus On Software Development, Data Analysis, And Cyber Security
