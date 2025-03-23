@@ -5,19 +5,13 @@ I Possess Comprehensive Skill Sets Spanning Various Domains<br>With A Strong Foc
 ## 👾 About Me 
 
 - 🎓 B.A. Software Engineering @ WGU
-- 🔒 Working Towards Further Pursuing My Career In Cyber Security/Data Analysis 
 - 🧠 Always Challenging Myself To Learn Everything Tech
+- 🔒 Working Towards Further Pursuing My Career In Cyber Security/Data Analysis 
 - 👩‍💻 Proficient In Various Programming Languages & Tools
 - ✊🏽 Vegan For The Animals
+- 🏕 Outdoor Enthusiast
 
 ## 🛠 Skills
-
-### Data Analysis
-- Data Wrangling - Pandas, NumPy
-- Statistical Analysis - SciPy, Statsmodels
-- Machine Learning - Scikit-learn, TensorFlow (Basic), Keras (Basic)
-- Data Visualization - Matplotlib, Seaborn, Tableau, Power BI
-- Databases - SQL, MySQL, PostgreSQL, MongoDB (Basic)
 
 ### Cyber Security
 - Network Security - Wireshark (Advanced), Nmap (Intermediate), Suricata (Intermediate), Tcpdump (Intermediate)
@@ -26,6 +20,13 @@ I Possess Comprehensive Skill Sets Spanning Various Domains<br>With A Strong Foc
 - Vulnerability Assessment - Nessus (Basic), OpenVAS (Basic)
 - Security Automation - Python Scripting For Security Tasks
 - Log Analysis - Google Chronicle (Basic)
+  
+### Data Analysis
+- Data Wrangling - Pandas, NumPy
+- Statistical Analysis - SciPy, Statsmodels
+- Machine Learning - Scikit-learn, TensorFlow (Basic), Keras (Basic)
+- Data Visualization - Matplotlib, Seaborn, Tableau, Power BI
+- Databases - SQL, MySQL, PostgreSQL, MongoDB (Basic)
 
 ### Programming
 - Languages - Python (Advanced), JavaScript (Advanced), Java (Intermediate), C++ (Intermediate), Go (Basic), Rust (Basic)
