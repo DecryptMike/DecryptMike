@@ -59,7 +59,5 @@ I Have A Diverse Skill Set As Intricate As The Matrix Itself
 ## 📫 How To Reach Me
 
 - Email: DecryptMike@Gmail.Com
-
-<center>
+- 
   ## "Design Your Own Fate"
-</center>
