@@ -12,8 +12,6 @@ I Possess Comprehensive Skill Sets Spanning Various Domains<br>With A Strong Foc
 
 ## 🛠 Skills
 
-I Have A Diverse Skill Set As Intricate As The Matrix Itself
-
 ### Software Applications
 - Development Tools - Docker (Intermediate), Git (Advanced), Jenkins (Intermediate), VS Code (Advanced)
 - Virtualization & Containerization - VirtualBox (Intermediate), VMware (Intermediate)
@@ -56,7 +54,7 @@ I Have A Diverse Skill Set As Intricate As The Matrix Itself
 - Modern Tools - Included Up-To-Date Technologies Like Docker, Cloud Platforms, And Modern JavaScript Frameworks.
 - Balance - Maintained A Balance Between Development, Data, And Security Skills.
 
-## 📫 How To Reach Me
+## 📫 Reach Out To Me
 
-[Visit H4ck3rByt3s Profile](https://h4ck3rByt3s.systeme.io/profile)
+[H4ck3rByt3s Profile](https://h4ck3rByt3s.systeme.io/profile)
   
