@@ -1,4 +1,4 @@
-# 👽 I'm Decrypt Mike 
+# Decrypt Mike 
 
 I Possess Comprehensive Skill Sets Spanning Various Domains<br>With A Strong Focus On Software Development, Data Analysis, And Cyber Security
 
