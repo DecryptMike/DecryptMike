@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  I'm A Cyber Security Analyst, Computer Programmer & Software / Web Developer
+  - Cyber Security Analyst - Computer Programmer -  Software & Website Developer
 </p>
 
 ## 👾 About 
