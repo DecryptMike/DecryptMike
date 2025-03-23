@@ -60,6 +60,6 @@ I Have A Diverse Skill Set As Intricate As The Matrix Itself
 
 - Email: DecryptMike@Gmail.Com
 
-## "Design Your Own Fate"
-
-PS. Check Out The Social Links 
+<center>
+  ## "Design Your Own Fate"
+</center>
