@@ -4,8 +4,7 @@
 
 # Hi, I'm Decrpyt Mike
 
-Welcome To My GitHub Profile. I'm A Cyber Security Analyst
-Computer Programmer & Software/Web Developer
+Welcome To My GitHub Profile. I'm A Cyber Security Analyst<br>Computer Programmer & Software/Web Developer
 
 ## 👾 About 
 
