@@ -2,7 +2,9 @@
   <img src="System.gif" alt="Matrix Rain Animation" width="800" height="400" />
 </p>
 
-# Hi, I'm Decrpyt Mike
+<p align="center">
+  # Hi, I'm Decrpyt Mike
+</p>
 
 Welcome To My GitHub Profile. I'm A Cyber Security Analyst<br>Computer Programmer & Software/Web Developer
 
