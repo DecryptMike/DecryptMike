@@ -1,12 +1,12 @@
-# 👽 Greetings, I'm Decrypt Mike 
+# 👽 I'm Decrypt Mike 
 
-I Possess A Comprehensive Skill Set Spanning Various Domains<br>With A Strong Focus On Software Development, Data Analysis, & Cyber Security
+I Possess Comprehensive Skill Sets Spanning Various Domains<br>With A Strong Focus On Software Development, Data Analysis, & Cyber Security
 
 ## 👾 About Me 
 
 - 🎓 B.A. Software Engineering @ WGU
-- 🔒 Aspiring To Further Pursue A Career In Cyber Security/Data Analysis 
-- 🧠 Continuously Challing Myself And Eager To Learn Everything Tech
+- 🔒 Working Towards Further Pursuing My Career In Cyber Security/Data Analysis 
+- 🧠 Always Challenging Myself To Learn Everything Tech
 - 👩‍💻 Proficient In Various Programming Languages & Tools
 - ✊🏽 Vegan For The Animals
 
