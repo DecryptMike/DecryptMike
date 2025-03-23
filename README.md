@@ -1,8 +1,9 @@
 <p align="center">
   <img src="System.gif" alt="Matrix Rain Animation" width="800" height="300" />
 </p>
+
 <p align="center">
-  <h1>Hi, I'm Decrypt Mike</h1>
+  <h1>Hi, I'm DecryptMike</h1>
 </p>
 
 I'm A Cyber Security Analyst, Computer Programmer & Software / Web Developer
