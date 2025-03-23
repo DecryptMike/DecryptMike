@@ -3,10 +3,12 @@
 </p>
 
 <p align="center">
-  <img src="Decrypt.png" alt="Your Image Description" />
+  <img src="Decrypt.png" alt="Decrypt Mike Logo" />
 </p>
 
-I'm A Cyber Security Analyst, Computer Programmer & Software / Web Developer
+<p align="center">
+  I'm A Cyber Security Analyst, Computer Programmer & Software / Web Developer
+</p>
 
 ## 👾 About 
 
