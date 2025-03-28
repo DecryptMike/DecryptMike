@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-   <b style="font-size: 24px;">Cyber Security Analyst - Computer Programmer - Software & Website Developer</b>
+   <b style="font-size: 72px;">Cyber Security Analyst - Computer Programmer - Software & Website Developer</b>
 </p>
 
 ## 👾 About 
