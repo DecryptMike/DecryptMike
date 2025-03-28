@@ -9,6 +9,7 @@
 <p align="center" style="font-size:22px;">
    <b>Cyber Security Analyst - Computer Programmer - Software & Website Developer</b>
 </p>
+
 ## 👾 About 
 
 - 🎓 B.S. Software Engineering @ WGU
