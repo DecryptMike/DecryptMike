@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="System.gif" alt="Matrix Rain Animation" width="1100" height="315" />
+  <img src="System.gif" alt="Matrix Rain Animation" width="1100" height="300" />
 </p>
 
 <p align="center">
