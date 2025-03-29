@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="Decrypt.png" alt="Decrypt Mike Logo" />
+  <img src="DecryptMike.png" alt="Decrypt Mike Logo" />
 </p>
 
 <h3 align="center">
