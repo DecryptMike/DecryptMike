@@ -6,9 +6,9 @@
   <img src="DecryptMike.png" alt="Decrypt Mike Logo" />
 </p>
 
-<h3 align="center">
+<h2 align="center">
    Cyber Security Analyst - Computer Programmer - Software & Website Developer
-</h3>
+</h2>
 
 ## 👾 About 
 
