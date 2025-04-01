@@ -64,4 +64,7 @@
 ## 📫 Contact
 
 [H4ck3rByt3s Profile](https://h4ck3rByt3s.systeme.io/profile)
-  
+
+## 📄 License
+
+This repository is licensed under the (**Default Copyright Law**) which prohibits the redistribution or reuse of its content.
