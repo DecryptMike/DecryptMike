@@ -1,3 +1,5 @@
+![License](https://img.shields.io/badge/Copyright-©%202025-111827?style=for-the-badge)
+
 <p align="center">
   <img src="H4ck3rByt3s.gif" alt="Decrypt Mike Rain Animation" width="1100" height="300" />
 </p>
