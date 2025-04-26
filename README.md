@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="H4ck3rByt3s.gif" alt="Decrypt Mike Rain Animation" width="1100" height="300" />
-</p>
-
-<p align="center">
   <img src="DecryptMike.png" alt="Decrypt Mike Logo" />
 </p>
 
 <h2 align="center">
    Cyber Security Analyst - Computer Programmer - Software & Website Developer
 </h2>
+
+<p align="center">
+  <img src="H4ck3rByt3s.gif" alt="Decrypt Mike Rain Animation" width="1100" height="300" />
+</p>
 
 ## 👾 About
 
@@ -49,7 +49,7 @@
 
 </details>
 
----
+
 
 <details>
 <summary>🧑‍💻 Python & Data Science</summary>
@@ -66,7 +66,7 @@
 
 </details>
 
----
+
 
 <details>
 <summary>🛠️ Web Development / Programming</summary>
@@ -85,7 +85,7 @@
 
 </details>
 
----
+
 
 <details>
 <summary>📊 Business, Marketing & Tools</summary>
@@ -99,7 +99,7 @@
 
 </details>
 
----
+
 
 <details>
 <summary>☁️ AWS & Cloud Certifications</summary>
@@ -113,38 +113,41 @@
 
 </details>
 
----
+
 
 ## Technologies & Languages 
 
-![Python](https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/Code-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/Markup-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/Style-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Next.js](https://img.shields.io/badge/Framework-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/Library-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Style-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![FastAPI](https://img.shields.io/badge/API-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQL](https://img.shields.io/badge/Database-SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Database-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Prisma](https://img.shields.io/badge/ORM-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Stripe](https://img.shields.io/badge/Payments-Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
-![Docker](https://img.shields.io/badge/DevOps-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL/PostgreSQL" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/8296347?s=200&v=4" alt="Supabase" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/Prisma/prisma-assets/main/Logo/prisma-logo.svg" alt="Prisma" width="40" height="40"/>
+  <img src="https://logos-world.net/wp-content/uploads/2021/03/Stripe-Logo.png" alt="Stripe" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+</p>
 
 ## Programs That I Use 
 
-![Visual Studio Code](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Hosting-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Supabase Studio](https://img.shields.io/badge/Platform-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Postman](https://img.shields.io/badge/API-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GitHub](https://img.shields.io/badge/Version_Control-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Containerization-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Design-Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![AWS Cloud](https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Make.com](https://img.shields.io/badge/Automation-Make.com-5F5CEC?style=for-the-badge&logo=make&logoColor=white)
-![Coursera Labs](https://img.shields.io/badge/LMS-Coursera_Labs-2A73CC?style=for-the-badge&logo=coursera&logoColor=white)
-
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/>
+  <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="Vercel" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/8296347?s=200&v=4" alt="Supabase Studio" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-icon.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS Cloud" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/68487943?s=200&v=4" alt="Make.com" width="40" height="40"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/coursera-3628694-3030164.png" alt="Coursera Labs" width="40" height="40"/>
+</p>
 
 ## 🛠 Skills
 
