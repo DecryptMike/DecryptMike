@@ -1,4 +1,4 @@
-![License](https://img.shields.io/badge/Copyright-©%202025-blue)
+![Copyright](https://img.shields.io/badge/Copyright-©%202025-black?style=for-the-badge)
 
 
 <p align="center">
