@@ -1,14 +1,14 @@
 <p align="center">
+  <img src="H4ck3rByt3s.gif" alt="Decrypt Mike Rain Animation" width="1100" height="300" />
+</p>
+
+<p align="center">
   <img src="DecryptMike.png" alt="Decrypt Mike Logo" />
 </p>
 
 <h2 align="center">
    Cyber Security Analyst - Computer Programmer - Software & Website Developer
 </h2>
-
-<p align="center">
-  <img src="H4ck3rByt3s.gif" alt="Decrypt Mike Rain Animation" width="1100" height="300" />
-</p>
 
 ## 👾 About
 
@@ -191,6 +191,27 @@
 - Modern Tools - Included Up-To-Date Technologies Like Docker, Cloud Platforms, And Modern JavaScript Frameworks.
 - Balance - Maintained A Balance Between Development, Data, And Security Skills.
 
+## 📊 My GitHub Stats
+
+<p align="center">
+
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=DecryptMike&style=flat-square&color=00FF00" alt="Profile Views" />
+
+  <br>
+  <!-- Profile Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=DecryptMike&show_icons=true&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=00FF00&bg_color=000000" alt="Decrypt Mike's GitHub stats" />
+
+  <br>
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DecryptMike&hide_border=true&currStreakLabel=00FF00&fire=00FF00&ring=00FF00&sideNums=00FF00&currStreakNum=00FF00&sideLabels=00FF00&dates=00FF00&background=000000" alt="GitHub Streak" />
+
+  <br>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DecryptMike&layout=compact&hide_border=true&title_color=00FF00&text_color=00FF00&bg_color=000000" alt="Top Languages" />
+
+</p>
+
 ## 📫 Contact
 
 [H4ck3rByt3s Profile](https://h4ck3rByt3s.systeme.io/profile)
@@ -198,3 +219,12 @@
 ## 📄 License
 
 This repository is licensed under the (**Default Copyright Law**) which prohibits the redistribution or reuse of its content.
+
+<p align="center">
+   <img src="https://img.shields.io/badge/Focus-Cybersecurity-0F9D58?style=for-the-badge&logo=datadog&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Focus-Web%20Development-1572B6?style=for-the-badge&logo=html5&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Focus-Software%20Development-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Focus-Computer%20Programming-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+   <img src="https://img.shields.io/badge/Made%20By-DecryptMike-limegreen?style=for-the-badge&logo=github"/>
+</p>
+
