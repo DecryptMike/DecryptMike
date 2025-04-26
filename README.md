@@ -212,6 +212,12 @@
 
 </p>
 
+## 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DecryptMike&theme=darkhub&no-bg=false&no-frame=false&margin-w=15&margin-h=15&column=6" alt="DecryptMike GitHub Trophy" />
+</p>
+
 ## 📫 Contact
 
 [H4ck3rByt3s Profile](https://h4ck3rByt3s.systeme.io/profile)<br>
