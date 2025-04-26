@@ -24,7 +24,7 @@
 
 👨‍💻 Proficient in multiple programming languages, frameworks, and tools
 
-## 📜 Certifications & [Verification](https://drive.google.com/drive/folders/1LS1OOaF6PA33uxKgK3WIWN73c1YzJ4LE?usp=drive_link) 
+## 📜 Certifications & [Verification](https://drive.google.com/drive/folders/1LS1OOaF6PA33uxKgK3WIWN73c1YzJ4LE?usp=drive_link) - [Decrypt Mike CourseA](https://www.coursera.org/learner/decryptmike)
 
 <details>
 <summary>🔐 Cybersecurity + AI & Generative AI (Google, CourseA, IBM, OpenAI)</summary>
