@@ -151,7 +151,7 @@
 
 ### Cyber Security
 - Network Security - Wireshark (Advanced), Nmap (Intermediate), Suricata (Intermediate), Tcpdump (Intermediate)
-- Security Information and Event Management (SIEM) - Splunk (Intermediate), ELK Stack (Basic)
+- Security Information And Event Management (SIEM) - Splunk (Intermediate), ELK Stack (Basic)
 - Cloud Security - AWS Security Services (Basic), Azure Security Center (Basic)
 - Vulnerability Assessment - Nessus (Basic), OpenVAS (Basic)
 - Security Automation - Python Scripting For Security Tasks
