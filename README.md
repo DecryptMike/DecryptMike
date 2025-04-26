@@ -113,8 +113,6 @@
 
 </details>
 
-
-
 ## Technologies & Languages 
 
 <p align="center">
