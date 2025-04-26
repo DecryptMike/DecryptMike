@@ -27,7 +27,7 @@
 ## 📜 Certifications & [Verification](https://drive.google.com/drive/folders/1LS1OOaF6PA33uxKgK3WIWN73c1YzJ4LE?usp=drive_link) 
 
 <details>
-<summary>🔐 Cybersecurity (Google + IBM)</summary>
+<summary>🔐 Cybersecurity + AI & Generative AI (Google, CourseA, IBM, OpenAI)</summary>
 
 <br>
 
@@ -46,17 +46,6 @@
 ![Generative AI with IBM](https://img.shields.io/badge/IBM-GenAI_&_Career-0F62FE?style=for-the-badge&logo=ibm&logoColor=white)
 ![AI with Make.com](https://img.shields.io/badge/Coursera-AI_with_Make.com-2A73CC?style=for-the-badge&logo=make&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Coursera-Google_Gemini-2A73CC?style=for-the-badge&logo=google&logoColor=white)
-
-</details>
-
----
-
-<details>
-<summary>🧠 AI & Generative AI (Google, Coursera, IBM, OpenAI)</summary>
-
-<br>
-
-(Same badges here — no need to duplicate — handled under Cybersecurity above.)
 
 </details>
 
