@@ -214,7 +214,8 @@
 
 ## 📫 Contact
 
-[H4ck3rByt3s Profile](https://h4ck3rByt3s.systeme.io/profile)
+[H4ck3rByt3s Profile](https://h4ck3rByt3s.systeme.io/profile)<br>
+[Decrypt Mike LinkedIn](https://www.linkedin.com/in/h4ck3rbyt3s/)
 
 ## 📄 License
 
