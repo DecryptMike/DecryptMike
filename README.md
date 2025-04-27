@@ -150,8 +150,8 @@
   <img src="https://avatars.githubusercontent.com/u/68487943?s=200&v=4" alt="Make.com" width="40" height="40"/>
   <img src="https://cdn.iconscout.com/icon/free/png-256/coursera-3628694-3030164.png" alt="Coursera Labs" width="40" height="40"/>
   <img src="./assets/atom.png" alt="Atom" width="40" height="40"/>
+<img src="./assets/wireshark.jpeg" alt="Wireshark" width="40" height="40"/>
   <img src="./assets/chrome.png" alt="Chrome" width="40" height="40"/>
-  <img src="./assets/wireshark.jpeg" alt="Wireshark" width="40" height="40"/>
 </p>
 
 ## 🛠 Skills
