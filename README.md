@@ -133,6 +133,8 @@
   <img src="./assets/prisma.png" alt="Prisma" width="40" height="40" />
   <img src="https://logos-world.net/wp-content/uploads/2021/03/Stripe-Logo.png" alt="Stripe" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="./assets/django.png" alt="Django" width="40" height="40"/>
+  <img src="./assets/linux.png" alt="Linux" width="40" height="40"/>
 </p>
 
 ## Programs That I Use 
@@ -142,12 +144,15 @@
   <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="Vercel" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/8296347?s=200&v=4" alt="Supabase Studio" width="40" height="40"/>
   <img src="./assets/postman.png" alt="Postman" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="./assets/Github.jpg" alt="GitHub" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS Cloud" width="40" height="40"/>
+  <img src="./assets/ADPS.png" alt="Photoshop" width="40" height="40"/>
+  <img src="./assets/Aws.png" alt="AWS Cloud" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/68487943?s=200&v=4" alt="Make.com" width="40" height="40"/>
   <img src="https://cdn.iconscout.com/icon/free/png-256/coursera-3628694-3030164.png" alt="Coursera Labs" width="40" height="40"/>
+  <img src="./assets/atom.png" alt="Atom" width="40" height="40"/>
+  <img src="./assets/chrome.png" alt="Chrome" width="40" height="40"/>
+  <img src="./assets/wireshark.jpeg" alt="Wireshark" width="40" height="40"/>
 </p>
 
 ## 🛠 Skills
