@@ -128,7 +128,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="./assets/tailwindcss.png" alt="Tailwind CSS" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL/PostgreSQL" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/8296347?s=200&v=4" alt="Supabase" width="40" height="40"/>
   <img src="./assets/prisma.png" alt="Prisma" width="40" height="40" />
   <img src="https://logos-world.net/wp-content/uploads/2021/03/Stripe-Logo.png" alt="Stripe" width="40" height="40"/>
