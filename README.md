@@ -10,7 +10,7 @@
 </p>
 
 <h2 align="center">
-   Cyber Security Analyst - Computer Programmer - Software & Website Developer
+   Cyber Security - Computer Programmer - Software & Website Developer - AI Engineer
 </h2>
 
 ## 👾 About
