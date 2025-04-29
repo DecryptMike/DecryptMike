@@ -33,8 +33,6 @@
 <summary><strong>🛡️ Cybersecurity Certifications</strong></summary><br/>
 
 ![Google](https://img.shields.io/badge/Google-Google%20Cybersecurity-10b981?style=flat-square&logo=google&logoColor=white&labelColor=555)
-![IBM](https://img.shields.io/badge/IBM-Cybersecurity%20Case%20Studies-10b981?style=flat-square&logo=ibm&logoColor=white&labelColor=555)
-![Coursera](https://img.shields.io/badge/Coursera-Google%20Cybersecurity%20Certificate%20V2-10b981?style=flat-square&logo=coursera&logoColor=white&labelColor=555)
 ![Google](https://img.shields.io/badge/Google-Foundations%20of%20Cybersecurity-10b981?style=flat-square&logo=google&logoColor=white&labelColor=555)
 ![Google](https://img.shields.io/badge/Google-Assets%20Threats%20%26%20Vulnerabilities-10b981?style=flat-square&logo=google&logoColor=white&labelColor=555)
 ![Google](https://img.shields.io/badge/Google-Connect%20and%20Protect-10b981?style=flat-square&logo=google&logoColor=white&labelColor=555)
@@ -42,23 +40,27 @@
 ![Google](https://img.shields.io/badge/Google-Tools%20of%20the%20Trade-10b981?style=flat-square&logo=google&logoColor=white&labelColor=555)
 ![Google](https://img.shields.io/badge/Google-Sound%20the%20Alarm-10b981?style=flat-square&logo=google&logoColor=white&labelColor=555)
 ![Google](https://img.shields.io/badge/Google-Put%20It%20to%20Work-10b981?style=flat-square&logo=google&logoColor=white&labelColor=555)
+![IBM](https://img.shields.io/badge/IBM-Cybersecurity%20Case%20Studies-10b981?style=flat-square&logo=ibm&logoColor=white&labelColor=555)
+![IBM](https://img.shields.io/badge/IBM-Lightning%20Strikes%20Case%20Study-10b981?style=flat-square&logo=ibm&logoColor=white&labelColor=555)
+![IBM](https://img.shields.io/badge/IBM-Capstone%20Final%20Project-10b981?style=flat-square&logo=ibm&logoColor=white&labelColor=555)
+![Coursera](https://img.shields.io/badge/Coursera-Google%20Cybersecurity%20Certificate%20V2-10b981?style=flat-square&logo=coursera&logoColor=white&labelColor=555)
 
 </details>
 
 <details>
 <summary><strong>🤖 AI & Generative AI Certifications</strong></summary><br/>
 
-![Coursera](https://img.shields.io/badge/Coursera-Google%20AI%20Essentials-ef4444?style=flat-square&logo=coursera&logoColor=white&labelColor=555)
-![Coursera](https://img.shields.io/badge/Coursera-OpenAI%20API%20for%20Beginners-ef4444?style=flat-square&logo=coursera&logoColor=white&labelColor=555)
 ![GoogleCloud](https://img.shields.io/badge/GoogleCloud-Responsible%20AI-ef4444?style=flat-square&logo=googlecloud&logoColor=white&labelColor=555)
 ![GoogleCloud](https://img.shields.io/badge/GoogleCloud-Introduction%20to%20Generative%20AI-ef4444?style=flat-square&logo=googlecloud&logoColor=white&labelColor=555)
 ![GoogleCloud](https://img.shields.io/badge/GoogleCloud-Introduction%20to%20Large%20Language%20Models-ef4444?style=flat-square&logo=googlecloud&logoColor=white&labelColor=555)
 ![GoogleCloud](https://img.shields.io/badge/GoogleCloud-Introduction%20to%20Responsible%20AI-ef4444?style=flat-square&logo=googlecloud&logoColor=white&labelColor=555)
-![IBM](https://img.shields.io/badge/IBM-Generative%20AI%20Software%20Dev-ef4444?style=flat-square&logo=ibm&logoColor=white&labelColor=555)
-![Amazon](https://img.shields.io/badge/Amazon-Generative%20AI%20in%20Software%20Dev-ef4444?style=flat-square&logo=amazon&logoColor=white&labelColor=555)
 ![Coursera](https://img.shields.io/badge/Coursera-GenAI%20for%20Data%20Analysis-ef4444?style=flat-square&logo=coursera&logoColor=white&labelColor=555)
 ![Coursera](https://img.shields.io/badge/Coursera-GenAI%20Web%20Dev%20Python%20Copilot-ef4444?style=flat-square&logo=coursera&logoColor=white&labelColor=555)
 ![Coursera](https://img.shields.io/badge/Coursera-Gemini%20Marketing%20Plan-ef4444?style=flat-square&logo=coursera&logoColor=white&labelColor=555)
+![Coursera](https://img.shields.io/badge/Coursera-Google%20AI%20Essentials-ef4444?style=flat-square&logo=coursera&logoColor=white&labelColor=555)
+![Coursera](https://img.shields.io/badge/Coursera-OpenAI%20API%20for%20Beginners-ef4444?style=flat-square&logo=coursera&logoColor=white&labelColor=555)
+![IBM](https://img.shields.io/badge/IBM-Generative%20AI%20Software%20Dev-ef4444?style=flat-square&logo=ibm&logoColor=white&labelColor=555)
+![Amazon](https://img.shields.io/badge/Amazon-Generative%20AI%20in%20Software%20Dev-ef4444?style=flat-square&logo=amazon&logoColor=white&labelColor=555)
 ![Make.com](https://img.shields.io/badge/Make.com-AI%20Content%20Automation-ef4444?style=flat-square&logo=make&logoColor=white&labelColor=555)
 
 </details>
@@ -67,13 +69,16 @@
 <summary><strong>🧑‍💻 Python & Data Science Certifications</strong></summary><br/>
 
 ![Coursera](https://img.shields.io/badge/Coursera-Python%20101-3b82f6?style=flat-square&logo=coursera&logoColor=white&labelColor=555)
-![Duke](https://img.shields.io/badge/Duke-Python%20Scripting-3b82f6?style=flat-square&logo=duke&logoColor=white&labelColor=555)
-![IBM](https://img.shields.io/badge/IBM-Python%20for%20Data%20Science-3b82f6?style=flat-square&logo=ibm&logoColor=white&labelColor=555)
 ![Coursera](https://img.shields.io/badge/Coursera-Exploratory%20Data%20Analysis-3b82f6?style=flat-square&logo=coursera&logoColor=white&labelColor=555)
 ![Coursera](https://img.shields.io/badge/Coursera-Decryption%20with%20Python-3b82f6?style=flat-square&logo=coursera&logoColor=white&labelColor=555)
 ![Coursera](https://img.shields.io/badge/Coursera-Data%20Analysis%20with%20OpenAI-3b82f6?style=flat-square&logo=coursera&logoColor=white&labelColor=555)
 ![Coursera](https://img.shields.io/badge/Coursera-Flask%20Web%20App%20with%20Python-3b82f6?style=flat-square&logo=flask&logoColor=white&labelColor=555)
+![Python](https://img.shields.io/badge/Python-Update%20File%20Algorithm-3b82f6?style=flat-square&logo=python&logoColor=white&labelColor=555)
+![Python](https://img.shields.io/badge/Python-Import%20Parsing%20Txtfile-3b82f6?style=flat-square&logo=python&logoColor=white&labelColor=555)
+![Python](https://img.shields.io/badge/Python-Create%20Another%20Algorithm-3b82f6?style=flat-square&logo=python&logoColor=white&labelColor=555)
 ![Google](https://img.shields.io/badge/Google-Foundations%20Data%20Everywhere-3b82f6?style=flat-square&logo=google&logoColor=white&labelColor=555)
+![IBM](https://img.shields.io/badge/IBM-Python%20for%20Data%20Science-3b82f6?style=flat-square&logo=ibm&logoColor=white&labelColor=555)
+![Duke](https://img.shields.io/badge/Duke-Python%20Scripting-3b82f6?style=flat-square&logo=duke&logoColor=white&labelColor=555)
 
 </details>
 
@@ -84,13 +89,13 @@
 ![Coursera](https://img.shields.io/badge/Coursera-JavaScript%20Intro-8b5cf6?style=flat-square&logo=javascript&logoColor=white&labelColor=555)
 ![Coursera](https://img.shields.io/badge/Coursera-HTML%20Intro-8b5cf6?style=flat-square&logo=html5&logoColor=white&labelColor=555)
 ![Coursera](https://img.shields.io/badge/Coursera-HTML%2C%20CSS%2C%20JS%20for%20Developers-8b5cf6?style=flat-square&logo=html5&logoColor=white&labelColor=555)
-![IBM](https://img.shields.io/badge/IBM-Intro%20to%20HTML%20CSS%20JS-8b5cf6?style=flat-square&logo=ibm&logoColor=white&labelColor=555)
-![Johns%20Hopkins](https://img.shields.io/badge/Johns%20Hopkins-Web%20Dev%20with%20HTML%20CSS%20JS-8b5cf6?style=flat-square&logo=html5&logoColor=white&labelColor=555)
 ![Coursera](https://img.shields.io/badge/Coursera-Java%20JDBC-8b5cf6?style=flat-square&logo=java&logoColor=white&labelColor=555)
 ![Coursera](https://img.shields.io/badge/Coursera-C%2B%2B%20Calculator-8b5cf6?style=flat-square&logo=cpp&logoColor=white&labelColor=555)
 ![Coursera](https://img.shields.io/badge/Coursera-Programming%20in%20C%23-8b5cf6?style=flat-square&logo=csharp&logoColor=white&labelColor=555)
-![Simplilearn](https://img.shields.io/badge/Simplilearn-Programming%20with%20C%23-8b5cf6?style=flat-square&logo=csharp&logoColor=white&labelColor=555)
 ![Coursera](https://img.shields.io/badge/Coursera-JavaScript%20with%20AI-8b5cf6?style=flat-square&logo=javascript&logoColor=white&labelColor=555)
+![IBM](https://img.shields.io/badge/IBM-Intro%20to%20HTML%20CSS%20JS-8b5cf6?style=flat-square&logo=ibm&logoColor=white&labelColor=555)
+![Johns%20Hopkins](https://img.shields.io/badge/Johns%20Hopkins-Web%20Dev%20with%20HTML%20CSS%20JS-8b5cf6?style=flat-square&logo=html5&logoColor=white&labelColor=555)
+![Simplilearn](https://img.shields.io/badge/Simplilearn-Programming%20with%20C%23-8b5cf6?style=flat-square&logo=csharp&logoColor=white&labelColor=555)
 
 </details>
 
@@ -108,10 +113,10 @@
 <details>
 <summary><strong>☁️ AWS & Cloud Certifications</strong></summary><br/>
 
-![Whizlabs](https://img.shields.io/badge/Whizlabs-AWS%20Data%20Analytics-f97316?style=flat-square&logo=amazonaws&logoColor=white&labelColor=555)
+![Amazon](https://img.shields.io/badge/Amazon-Data%20Analytics%20%26%20Databases-f97316?style=flat-square&logo=amazon&logoColor=white&labelColor=555)
 ![AWS](https://img.shields.io/badge/AWS-Software%20Dev%20Practices-f97316?style=flat-square&logo=amazonaws&logoColor=white&labelColor=555)
 ![AWS](https://img.shields.io/badge/AWS-Python%20App%20Dev-f97316?style=flat-square&logo=amazonaws&logoColor=white&labelColor=555)
-![Amazon](https://img.shields.io/badge/Amazon-Data%20Analytics%20%26%20Databases-f97316?style=flat-square&logo=amazon&logoColor=white&labelColor=555)
+![Whizlabs](https://img.shields.io/badge/Whizlabs-AWS%20Data%20Analytics-f97316?style=flat-square&logo=amazonaws&logoColor=white&labelColor=555)
 
 </details>
 
