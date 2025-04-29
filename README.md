@@ -225,6 +225,13 @@
   <img src="https://github-profile-trophy.vercel.app/?username=DecryptMike&theme=darkhub&no-bg=false&no-frame=false&margin-w=15&margin-h=15&column=6" alt="DecryptMike GitHub Trophy" />
 </p>
 
+<h2 align="center">🐍 GitHub Contribution Snake</h2>
+
+<p align="center">
+  <img src="DecryptMike Custom Snk.gif" width="600" />
+</p>
+
+
 ## 📫 Contact
 
 Personal <br>
