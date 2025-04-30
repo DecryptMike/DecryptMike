@@ -207,8 +207,8 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=DecryptMike&style=flat-square&color=00FF00" alt="Profile Views" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DecryptMike&layout=compact&hide_border=true&title_color=00FF00&text_color=00FF00&bg_color=000000" alt="Top Languages" /><br>
+   <img src="https://github-readme-stats.vercel.app/api?username=DecryptMike&show_icons=true&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=00FF00&bg_color=000000" alt="Decrypt Mike's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DecryptMike&hide_border=true&currStreakLabel=00FF00&fire=00FF00&ring=00FF00&sideNums=00FF00&currStreakNum=00FF00&sideLabels=00FF00&dates=00FF00&background=000000" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=DecryptMike&show_icons=true&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=00FF00&bg_color=000000" alt="Decrypt Mike's GitHub stats" />
 
 </p>
 
