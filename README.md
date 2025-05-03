@@ -43,8 +43,8 @@
 ![IBM](https://img.shields.io/badge/IBM-Cybersecurity%20Case%20Studies-10b981?style=flat-square&logo=ibm&logoColor=white&labelColor=555)
 ![IBM](https://img.shields.io/badge/IBM-Lightning%20Strikes%20Case%20Study-10b981?style=flat-square&logo=ibm&logoColor=white&labelColor=555)
 ![IBM](https://img.shields.io/badge/IBM-Capstone%20Final%20Project-10b981?style=flat-square&logo=ibm&logoColor=white&labelColor=555)
-![Cisco](https://img.shields.io/badge/%20Cisco-Ethical%20Hacker-10b981?style=flat-square&labelColor=555&logo=cisco&logoColor=white)
 ![Coursera](https://img.shields.io/badge/Coursera-Google%20Cybersecurity%20Certificate%20V2-10b981?style=flat-square&logo=coursera&logoColor=white&labelColor=555)
+![Cisco](https://img.shields.io/badge/%20Cisco-Ethical%20Hacker-10b981?style=flat-square&labelColor=555&logo=cisco&logoColor=white)
 
 </details>
 
