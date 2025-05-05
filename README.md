@@ -80,6 +80,8 @@
 ![Google](https://img.shields.io/badge/Google-Foundations%20Data%20Everywhere-3b82f6?style=flat-square&logo=google&logoColor=white&labelColor=555)
 ![IBM](https://img.shields.io/badge/IBM-Python%20for%20Data%20Science-3b82f6?style=flat-square&logo=ibm&logoColor=white&labelColor=555)
 ![Duke](https://img.shields.io/badge/Duke-Python%20Scripting-3b82f6?style=flat-square&logo=duke&logoColor=white&labelColor=555)
+![Cisco](https://img.shields.io/badge/Cisco-Python%20Essentials%202-3b82f6?style=flat-square&logo=cisco&logoColor=white&labelColor=555)
+
 
 </details>
 
