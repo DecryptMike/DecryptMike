@@ -165,10 +165,10 @@
   <img src="./assets/Github.jpg" alt="GitHub" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="./assets/ADPS.png" alt="Photoshop" width="40" height="40"/>
-  <img src="./assets/Aws.png" alt="AWS Cloud" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/68487943?s=200&v=4" alt="Make.com" width="40" height="40"/>
-  <img src="./assets/Railway.png" height="40" alt="Railway logo" />
   <img src="./assets/Tableau.png" height="40" alt="Tableau logo" />
+  <img src="./assets/Aws.png" alt="AWS Cloud" width="40" height="40"/>
+  <img src="./assets/Railway.png" height="40" alt="Railway logo" />
+  <img src="https://avatars.githubusercontent.com/u/68487943?s=200&v=4" alt="Make.com" width="40" height="40"/>
   <img src="./assets/Splunk.jpeg" height="40" alt="Splunk logo" />
   <img src="https://cdn.iconscout.com/icon/free/png-256/coursera-3628694-3030164.png" alt="Coursera Labs" width="40" height="40"/>
   <img src="./assets/wireshark.jpeg" alt="Wireshark" width="40" height="40"/>
