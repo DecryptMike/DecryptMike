@@ -99,6 +99,7 @@
 ![IBM](https://img.shields.io/badge/IBM-Intro%20to%20HTML%20CSS%20JS-8b5cf6?style=flat-square&logo=ibm&logoColor=white&labelColor=555)
 ![Johns%20Hopkins](https://img.shields.io/badge/Johns%20Hopkins-Web%20Dev%20with%20HTML%20CSS%20JS-8b5cf6?style=flat-square&logo=html5&logoColor=white&labelColor=555)
 ![Simplilearn](https://img.shields.io/badge/Simplilearn-Programming%20with%20C%23-8b5cf6?style=flat-square&logo=csharp&logoColor=white&labelColor=555)
+![Cisco](https://img.shields.io/badge/Cisco-JavaScript%20Essentials%202-8b5cf6?style=flat-square&logo=cisco&logoColor=white&labelColor=555)
 
 </details>
 
