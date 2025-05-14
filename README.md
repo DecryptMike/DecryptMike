@@ -176,8 +176,8 @@
   <img src="./assets/Tableau.png" height="40" alt="Tableau logo" />
   <img src="./assets/Aws.png" alt="AWS Cloud" width="40" height="40"/>
   <img src="./assets/Railway.png" height="40" alt="Railway logo" />
-  <img src="./assets/make.png" height="40" alt="Make logo" />
   <img src="./assets/Splunk.jpeg" height="40" alt="Splunk logo" />
+  <img src="./assets/make.png" height="40" alt="Make logo" />
   <img src="https://cdn.iconscout.com/icon/free/png-256/coursera-3628694-3030164.png" alt="Coursera Labs" width="40" height="40"/>
   <img src="./assets/Wireshark.jpeg" alt="Wireshark" width="40" height="40"/>
   <img src="./assets/chrome.png" alt="Chrome" width="40" height="40"/><br>
