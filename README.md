@@ -223,8 +223,8 @@
 
 ### Key Improvements
 - Categorization - Maintained Clear Categories For Easy Readability.
-- Relevance - Emphasized Tools And Technologies Directly Related To Your Specified Areas.
-- Depth - Provided A Mix Of Advanced, Intermediate, And Basic Skills To Showcase A Well-Rounded Profile.
+- Relevance - Emphasized Tools And Technologies Directly Related To My Specified Areas.
+- Depth - Provided A Mix Of Advanced, Intermediate, And Basic Skills To Showcase My Well-Rounded Profile.
 - Modern Tools - Included Up-To-Date Technologies Like Docker, Cloud Platforms, And Modern JavaScript Frameworks.
 - Balance - Maintained A Balance Between Development, Data, And Security Skills.
 
