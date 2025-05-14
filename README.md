@@ -146,9 +146,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo" />
   <img src="./assets/prisma.png" alt="Prisma" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
-  <img src="./assets/Rust.png" height="40" alt="rust logo" />
+  <img src="./assets/Rust.png" height="40" alt="rust logo" /><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL/PostgreSQL" width="40" height="40"/><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL/PostgreSQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img src="https://logos-world.net/wp-content/uploads/2021/03/Stripe-Logo.png" alt="Stripe" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
@@ -178,9 +178,8 @@
   <img src="./assets/Railway.png" height="40" alt="Railway logo" />
   <img src="./assets/Splunk.jpeg" height="40" alt="Splunk logo" />
   <img src="./assets/make.png" height="40" alt="Make logo" />
-  <img src="https://cdn.iconscout.com/icon/free/png-256/coursera-3628694-3030164.png" alt="Coursera Labs" width="40" height="40"/>
-  <img src="./assets/Wireshark.jpeg" alt="Wireshark" width="40" height="40"/>
-  <img src="./assets/chrome.png" alt="Chrome" width="40" height="40"/><br>
+  <img src="./assets/Wireshark.jpeg" alt="Wireshark" width="40" height="40"/><br>
+  <img src="./assets/chrome.png" alt="Chrome" width="40" height="40"/>
   <img src="./assets/Nmap.png" height="40" alt="Nmap logo" />
   <img src="./assets/nessus.png" height="40" alt="Nessus logo" />
 </p>
