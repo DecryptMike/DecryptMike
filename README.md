@@ -182,7 +182,7 @@
   <img src="./assets/Wireshark.jpeg" alt="Wireshark" width="40" height="40"/>
   <img src="./assets/chrome.png" alt="Chrome" width="40" height="40"/><br>
   <img src="./assets/Nmap.png" height="40" alt="Nmap logo" />
-  <img src="./assets/Nessus.png" height="40" alt="Nessus logo" />
+  <img src="./assets/nessus.png" height="40" alt="Nessus logo" />
 </p>
 
 ## 🛠 Skills
