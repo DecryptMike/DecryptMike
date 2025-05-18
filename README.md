@@ -9,9 +9,9 @@
   <img src="DecryptMike.png" alt="Decrypt Mike Logo" />
 </p>
 
-<p align="center">
-  <img src="DecryptMikeHeader.gif" alt="Decrypt Mike Header" />
-</p>
+<h2 align="center">
+   Cybersecurity - Computer Programmer - Website & Software Development - AI Engineer
+</h2>
 
 ## 👾 About
 
