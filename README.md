@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="DecryptMike.gif" alt="Decrypt Mike Header" width="1100" height="60" />
+  <img src="DecryptMike.gif" alt="Decrypt Mike Header" />
 </p>
 
 ## 👾 About
