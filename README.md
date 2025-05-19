@@ -258,7 +258,7 @@
 - Modern Tools - Included My Up-To-Date Technologies Like Docker, Cloud Platforms, & Modern JavaScript Frameworks
 - Balance - Showcasing My Balance Between Development, Data, And Security Skills
 ```
-## 📊 My GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=DecryptMike&style=flat-square&color=00FF00" alt="Profile Views" /><br>
@@ -268,7 +268,7 @@
 
 </p>
 
-## 🏆 GitHub Profile Trophy
+## 🏆 GitHub Profile Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DecryptMike&theme=darkhub&no-bg=false&no-frame=false&margin-w=15&margin-h=15&column=4" alt="DecryptMike GitHub Trophy" />
