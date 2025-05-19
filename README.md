@@ -218,7 +218,8 @@
               Rust (Basic)
 
 - Frameworks & Libraries - React (Advanced), Angular (Intermediate), Node.js (Intermediate), Django (Intermediate)
-                           Flask (Intermediate), Pandas (Intermediate), NumPy (Intermediate), Scikit-learn (Intermediate)
+                           Flask (Intermediate), Pandas (Intermediate), NumPy (Intermediate)
+                           Scikit-learn (Intermediate)
 
 - Markup Languages - HTML (Advanced), CSS (Advanced), XML (Intermediate), JSON (Intermediate)
 
