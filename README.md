@@ -30,7 +30,7 @@
 ## 📜 Certifications & [Verification](https://drive.google.com/drive/folders/1LS1OOaF6PA33uxKgK3WIWN73c1YzJ4LE?usp=drive_link) 
 
 <details>
-<summary><strong>🛡️ Cybersecurity Certifications</strong></summary><br/>
+<summary><strong>🛡️ Cybersecurity</strong></summary><br/>
 
 ![Google](https://img.shields.io/badge/Google-Google%20Cybersecurity-10b981?style=flat-square&logo=google&logoColor=white&labelColor=555)
 ![Google](https://img.shields.io/badge/Google-Foundations%20of%20Cybersecurity-10b981?style=flat-square&logo=google&logoColor=white&labelColor=555)
@@ -49,7 +49,7 @@
 </details>
 
 <details>
-<summary><strong>🤖 AI & Generative AI Certifications</strong></summary><br/>
+<summary><strong>🤖 AI & Generative AI</strong></summary><br/>
 
 ![GoogleCloud](https://img.shields.io/badge/GoogleCloud-Responsible%20AI-ef4444?style=flat-square&logo=googlecloud&logoColor=white&labelColor=555)
 ![GoogleCloud](https://img.shields.io/badge/GoogleCloud-Introduction%20to%20Generative%20AI-ef4444?style=flat-square&logo=googlecloud&logoColor=white&labelColor=555)
@@ -67,7 +67,7 @@
 </details>
 
 <details>
-<summary><strong>🧑‍💻 Python & Data Science Certifications</strong></summary><br/>
+<summary><strong>🧑‍💻 Python & Data Science</strong></summary><br/>
 
 ![Coursera](https://img.shields.io/badge/Coursera-Python%20101-3b82f6?style=flat-square&logo=coursera&logoColor=white&labelColor=555)
 ![Coursera](https://img.shields.io/badge/Coursera-Exploratory%20Data%20Analysis-3b82f6?style=flat-square&logo=coursera&logoColor=white&labelColor=555)
@@ -85,7 +85,7 @@
 </details>
 
 <details>
-<summary><strong>🛠️ Web Development & Programming Certifications</strong></summary><br/>
+<summary><strong>🛠️ Web Development & Programming</strong></summary><br/>
 
 ![Coursera](https://img.shields.io/badge/Coursera-Build%20Portfolio%20Website-8b5cf6?style=flat-square&logo=coursera&logoColor=white&labelColor=555)
 ![Coursera](https://img.shields.io/badge/Coursera-JavaScript%20Intro-8b5cf6?style=flat-square&logo=javascript&logoColor=white&labelColor=555)
@@ -103,7 +103,7 @@
 </details>
 
 <details>
-<summary><strong>📊 Business, Marketing & Tools Certifications</strong></summary><br/>
+<summary><strong>📊 Business, Marketing & Tools</strong></summary><br/>
 
 ![Coursera](https://img.shields.io/badge/Coursera-Business%20Analysis%20%26%20Process%20Management-60a5fa?style=flat-square&logo=coursera&logoColor=white&labelColor=555)
 ![Coursera](https://img.shields.io/badge/Coursera-Create%20Google%20Ads%20Campaign-60a5fa?style=flat-square&logo=googleads&logoColor=white&labelColor=555)
@@ -114,7 +114,7 @@
 </details>
 
 <details>
-<summary><strong>☁️ AWS & Cloud Certifications</strong></summary><br/>
+<summary><strong>☁️ AWS & Cloud</strong></summary><br/>
 
 ![Amazon](https://img.shields.io/badge/Amazon-Data%20Analytics%20%26%20Databases-f97316?style=flat-square&logo=amazon&logoColor=white&labelColor=555)
 ![AWS](https://img.shields.io/badge/AWS-Software%20Dev%20Practices-f97316?style=flat-square&logo=amazonaws&logoColor=white&labelColor=555)
