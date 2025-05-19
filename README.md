@@ -253,10 +253,10 @@
 ## 📫 Contact
 
 Personal <br>
-[H4ck3rByt3s Profile](https://h4ck3rbyt3s.systeme.io/profile) 
+<a href="https://h4ck3rbyt3s.systeme.io/profile"><img src="https://img.shields.io/badge/H4ck3rByt3s-75ec54?style=for-the-badge&logoColor=black"/></a>
 
 Professional <br>
-[Decrypt Mike LinkedIn](https://www.linkedin.com/in/h4ck3rbyt3s) 
+<a href="https://www.linkedin.com/in/h4ck3rbyt3s"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
 
 ## 📄 License
 
