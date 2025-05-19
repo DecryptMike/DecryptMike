@@ -11,18 +11,20 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&letterSpacing=4px&pause=1000&color=72EC54&center=true&width=1100&height=60&lines=...+Cybersecurity;...+Computer+Programmer;...+Website+%26+Software+Development;...+AI+Engineer+)](https://git.io/typing-svg)
 
 ## 👾 About
+```
+🎓 Education      : B.S. in Software Engineering @ WGU
 
-🎓 B.S. In Software Engineering @ WGU
+🛡️ Certification  : Graduate of Google's Cybersecurity Professional Certificate (Coursera)
 
-🛡️ Graduate Of Google's Cybersecurity Professional Certificate (Coursera)
+📜 Achievements   : Holder of 54+ Certifications (Courses & Capstone Projects)
 
-🔖 Holder Of 54+ Certifications (Courses & Capstone Projects)
+🧠 Passion        : Continuous Learning & Solving Real-World Problems
 
-🧠 Passionate About Continuous Learning And Solving Real-World Problems
+🔒 Career Focus   : Cybersecurity • Software Engineer • Web Development • AI
 
-🔒 Actively Pursuing A Career In Software Engineering, Cybersecurity, Web Development And AI
+👨‍💻 Proficiency    : Multiple Programming Languages, Frameworks, and Tools
 
-👨‍💻 Proficient In Multiple Programming Languages, Frameworks, And Tools
+```
 
 ## 📜 Certifications & [Verification](https://drive.google.com/drive/folders/1LS1OOaF6PA33uxKgK3WIWN73c1YzJ4LE?usp=drive_link) 
 
