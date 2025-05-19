@@ -11,7 +11,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&letterSpacing=4px&pause=1000&color=72EC54&center=true&width=1100&height=60&lines=...+Cybersecurity;...+Computer+Programmer;...+Website+%26+Software+Development;...+AI+Engineer+)](https://git.io/typing-svg)
 
 ## 👾 About
-```
+
+```yaml
 🎓 Education      : B.S. In Software Engineering @ WGU
 
 🛡️ Certification  : Graduate Of Google's Cybersecurity Professional Certificate (Coursera)
