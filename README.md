@@ -12,17 +12,17 @@
 
 ## 👾 About
 ```
-🎓 Education      : B.S. in Software Engineering @ WGU
+🎓 Education      : B.S. In Software Engineering @ WGU
 
-🛡️ Certification  : Graduate of Google's Cybersecurity Professional Certificate (Coursera)
+🛡️ Certification  : Graduate Of Google's Cybersecurity Professional Certificate (Coursera)
 
-📜 Achievements   : Holder of 54+ Certifications (Courses & Capstone Projects)
+📜 Achievements   : Holder Of 54+ Certifications (Courses & Capstone Projects)
 
 🧠 Passion        : Continuous Learning & Solving Real-World Problems
 
 🔒 Career Focus   : Cybersecurity • Software Engineer • Web Development • AI
 
-👨‍💻 Proficiency    : Multiple Programming Languages, Frameworks, and Tools
+👨‍💻 Proficiency    : Multiple Programming Languages, Frameworks, And Tools
 
 ```
 
@@ -185,7 +185,7 @@
 ## 🛠 Skills
 
 <details>
-<summary><strong>Cybersecurity</strong></summary>
+<summary><strong>🛡️ Cybersecurity</strong></summary>
   
 - Network Security - Wireshark (Advanced), Nmap (Intermediate), Suricata (Intermediate), Tcpdump (Intermediate)
 
@@ -202,7 +202,7 @@
 </details>
 
 <details>
-<summary><strong>Data Analysis</strong></summary>
+<summary><strong>📈 Data Analysis</strong></summary>
 
 - Data Wrangling - Pandas, NumPy
 
@@ -217,7 +217,7 @@
 </details>
 
 <details>
-<summary><strong>Programming</strong></summary>
+<summary><strong>⚙️ Programming</strong></summary>
 
 - Languages - Python (Advanced), JavaScript (Advanced), Java (Intermediate), C++ (Intermediate), Go (Basic), Rust (Basic)
 
@@ -231,7 +231,7 @@
 </details>
 
 <details>
-<summary><strong>Software Applications</strong></summary>
+<summary><strong>🖥️ Software Applications</strong></summary>
 
 - Development Tools - Docker (Intermediate), Git (Advanced), Jenkins (Intermediate), VS Code (Advanced)
 
@@ -246,7 +246,7 @@
 </details>
 
 <details>
-<summary><strong>Website Development</strong></summary>
+<summary><strong>🌐 Website Development</strong></summary>
 
 - Front-End - HTML5, CSS3, JavaScript (ES6+), React, Angular, Vue.js (Basic)
 
@@ -261,7 +261,7 @@
 </details>
 
 <details>
-<summary><strong>Key Improvements</strong></summary>
+<summary><strong>✅ Key Improvements</strong></summary>
 
 - Categorization - Maintained Clear Categories For Easy Readability
   
