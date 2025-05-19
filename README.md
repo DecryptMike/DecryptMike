@@ -8,9 +8,7 @@
   <img src="DecryptMike.png" alt="Decrypt Mike Logo" />
 </p>
 
-<h2 align="center">
-   Cybersecurity - Computer Programmer - Website & Software Development - AI Engineer
-</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&letterSpacing=4px&pause=1000&color=72EC54&center=true&width=1100&height=55&lines=...+Cybersecurity;...+Computer+Programmer;...+Website+%26+Software+Development;...+AI+Engineer+)](https://git.io/typing-svg)
 
 ## 👾 About
 
