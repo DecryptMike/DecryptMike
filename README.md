@@ -221,8 +221,8 @@
 
 - Languages - Python (Advanced), JavaScript (Advanced), Java (Intermediate), C++ (Intermediate), Go (Basic), Rust (Basic)
 
-- Frameworks & Libraries - React (Advanced), Angular (Intermediate), Node.js (Intermediate), Django (Intermediate), Flask (Intermediate)
-                           Pandas (Intermediate), NumPy (Intermediate), Scikit-learn (Intermediate)
+- Frameworks & Libraries - React (Advanced), Angular (Intermediate), Node.js (Intermediate), Django (Intermediate)
+                           Flask (Intermediate), Pandas (Intermediate), NumPy (Intermediate), Scikit-learn (Intermediate)
 
 - Markup Languages - HTML (Advanced), CSS (Advanced), XML (Intermediate), JSON (Intermediate)
 
