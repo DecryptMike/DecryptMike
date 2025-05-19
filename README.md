@@ -186,7 +186,7 @@
 ## 🛠 Skills
 
 <details>
-<summary><strong>🛡️ Cybersecurity</strong></summary><br/>
+<summary><strong>🛡️ Cybersecurity</strong></summary>
   
 - Network Security - Wireshark (Advanced), Nmap (Intermediate), Suricata (Intermediate), Tcpdump (Intermediate)
 
@@ -203,7 +203,7 @@
 </details>
 
 <details>
-<summary><strong>📈 Data Analysis</strong></summary><br/>
+<summary><strong>📈 Data Analysis</strong></summary>
 
 - Data Wrangling - Pandas, NumPy
 
@@ -218,7 +218,7 @@
 </details>
 
 <details>
-<summary><strong>⚙️ Programming</strong></summary><br/>
+<summary><strong>⚙️ Programming</strong></summary>
 
 - Languages - Python (Advanced), JavaScript (Advanced), Java (Intermediate), C++ (Intermediate), Go (Basic), Rust (Basic)
 
@@ -232,7 +232,7 @@
 </details>
 
 <details>
-<summary><strong>🖥️ Software Applications</strong></summary><br/>
+<summary><strong>🖥️ Software Applications</strong></summary>
 
 - Development Tools - Docker (Intermediate), Git (Advanced), Jenkins (Intermediate), VS Code (Advanced)
 
@@ -247,7 +247,7 @@
 </details>
 
 <details>
-<summary><strong>🌐 Website Development</strong></summary><br/>
+<summary><strong>🌐 Website Development</strong></summary>
 
 - Front-End - HTML5, CSS3, JavaScript (ES6+), React, Angular, Vue.js (Basic)
 
@@ -262,7 +262,7 @@
 </details>
 
 <details>
-<summary><strong>✅ Key Improvements</strong></summary><br/>
+<summary><strong>✅ Key Improvements</strong></summary>
 
 - Categorization - Maintained Clear Categories For Easy Readability
   
