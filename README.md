@@ -298,14 +298,13 @@
   <img src="DecryptMike Custom Snk.gif" width="700" />
 </p>
 
-
 ## 📫 Contact
 
-Professional <br>
-<a href="https://www.linkedin.com/in/h4ck3rbyt3s"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://www.linkedin.com/in/h4ck3rbyt3s"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a><br>
+Professional
 
-Personal <br>
-<a href="https://h4ck3rbyt3s.systeme.io/profile"><img src="https://img.shields.io/badge/H4ck3rByt3s-75ec54?style=for-the-badge&logoColor=black"/></a>
+<a href="https://h4ck3rbyt3s.systeme.io/profile"><img src="https://img.shields.io/badge/H4ck3rByt3s-75ec54?style=for-the-badge&logoColor=black"/></a><br>
+Personal
 
 ## 📄 License
 
