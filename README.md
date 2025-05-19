@@ -276,7 +276,7 @@
 
 </details>
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=DecryptMike&style=flat-square&color=00FF00" alt="Profile Views" /><br>
@@ -286,13 +286,13 @@
 
 </p>
 
-## 🏆 GitHub Trophies
+## 🏆 Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DecryptMike&theme=darkhub&no-bg=false&no-frame=false&margin-w=15&margin-h=15&column=4" alt="DecryptMike GitHub Trophy" />
 </p>
 
-## 🐍 GitHub Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="DecryptMike Custom Snk.gif" width="700" />
