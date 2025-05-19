@@ -252,11 +252,11 @@
 
 ### Key Improvements
 ```
-- Categorization - Maintained Clear Categories For Easy Readability.
-- Relevance - Emphasized Tools And Technologies Directly Related To My Specified Areas.
-- Depth - Provided A Mix Of Advanced, Intermediate, And Basic Skills To Showcase My Well-Rounded Expertise.
-- Modern Tools - Included My Up-To-Date Technologies Like Docker, Cloud Platforms, And Modern JavaScript Frameworks.
-- Balance - Showcasing My Balance Between Development, Data, And Security Skills.
+- Categorization - Maintained Clear Categories For Easy Readability
+- Relevance - Emphasized Tools And Technologies Directly Related To My Specified Areas
+- Depth - Provided A Mix Of Advanced, Intermediate, And Basic Skills To Showcase My Well-Rounded Expertise
+- Modern Tools - Included My Up-To-Date Technologies Like Docker, Cloud Platforms, And Modern JavaScript Frameworks
+- Balance - Showcasing My Balance Between Development, Data, And Security Skills
 ```
 ## 📊 My GitHub Stats
 
