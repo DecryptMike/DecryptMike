@@ -84,7 +84,7 @@
 </details>
 
 <details>
-<summary><strong>🛠️ Web Development / Programming Certifications</strong></summary><br/>
+<summary><strong>🛠️ Web Development & Programming Certifications</strong></summary><br/>
 
 ![Coursera](https://img.shields.io/badge/Coursera-Build%20Portfolio%20Website-8b5cf6?style=flat-square&logo=coursera&logoColor=white&labelColor=555)
 ![Coursera](https://img.shields.io/badge/Coursera-JavaScript%20Intro-8b5cf6?style=flat-square&logo=javascript&logoColor=white&labelColor=555)
