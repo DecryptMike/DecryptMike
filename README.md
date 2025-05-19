@@ -14,17 +14,14 @@
 
 ## 👾 About
 
-🎓 B.S. In Software Engineering @ WGU
-
-🛡️ Graduate Of Google's Cybersecurity Professional Certificate (Coursera)
-
-🔖 Holder Of 54+ Certifications (Courses & Capstone Projects)
-
-🧠 Passionate About Continuous Learning And Solving Real-World Problems
-
-🔒 Actively Pursuing A Career In Software Engineering, Cybersecurity, Web Development And AI
-
-👨‍💻 Proficient In Multiple Programming Languages, Frameworks, And Tools
+```
+🎓 Education     : B.S. in Software Engineering @ WGU
+🛡️ Certification : Graduate of Google's Cybersecurity Professional Certificate (Coursera)
+📜 Achievements  : Holder of 54+ Certifications (Courses & Capstone Projects)
+🧠 Passion       : Continuous Learning & Solving Real-World Problems
+🔒 Career Focus  : Software Engineering • Cybersecurity • Web Development • AI
+👨‍💻 Proficiency   : Multiple Programming Languages, Frameworks, and Tools
+```
 
 ## 📜 Certifications & [Verification](https://drive.google.com/drive/folders/1LS1OOaF6PA33uxKgK3WIWN73c1YzJ4LE?usp=drive_link) 
 
