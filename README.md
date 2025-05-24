@@ -281,7 +281,7 @@
 
 ## 💬 Motivation
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?quote=Never%20Stop%20Learning%20Because%20Life%20Never%20Stops%20Teaching&author=Anonymous&theme=dark&type=horizontal&border=true" alt="Learning Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?quote=Discipline%20leads%20to%20habits.%20Habits%20lead%20to%20consistency.%20Consistency%20leads%20to%20growth.&author=Anonymous&theme=dark&type=horizontal&border=true" alt="Growth Quote" />
 </div>
 
 ## 📊 Stats
