@@ -26,10 +26,11 @@
 👨‍💻 Proficiency    : Multiple Programming Languages, Frameworks, And Tools
 
 ```
+
 ## 📅 2025 Goals
 
 - [ ] Master A Framework Or Ecosystem
-- [ ] Contribute To 10 Open Source Projects 
+- [ ] Contribute To 5 Open Source Projects 
 - [x] Strengthen My DevOps & CI/CD Skills
 - [ ] Create My Own 🧱 🔗 Network 
 
