@@ -282,9 +282,8 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DecryptMike&theme=chartreuse_dark&utcOffset=8" width="49%" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DecryptMike&theme=chartreuse_dark" width="49%" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DecryptMike&theme=chartreuse_dark" width="49%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DecryptMike&theme=chartreuse_dark" width="98%" />
 </p>
-
-<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DecryptMike&theme=chartreuse_dark" alt="Profile Details" width="98%" /></p>
 
 ## 🏆 Trophies
 
