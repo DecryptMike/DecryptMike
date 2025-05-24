@@ -13,17 +13,17 @@
 ## 👾 About
 
 ```yaml
-🎓 Education      :  B.S. In Software Engineering @ WGU
+🎓 Education      : B.S. In Software Engineering @ WGU
 
-🛡️ Certification  :  Graduate Of Google's Cybersecurity Professional Certificate (Coursera)
+🛡️ Certification  : Graduate Of Google's Cybersecurity Professional Certificate (Coursera)
 
-📜 Achievements   :  Holder Of 50+ Certifications (Courses & Capstone Projects)
+📜 Achievements   : Holder Of 50+ Certifications (Courses & Capstone Projects)
 
-🧠 Passion        :  Continuous Learning & Solving Real-World Problems
+🧠 Passion        : Continuous Learning & Solving Real-World Problems
 
-🔒 Career Focus   :  Cybersecurity • Software Engineer • Web Development • AI
+🔒 Career Focus   : Cybersecurity • Software Engineer • Web Development • AI
 
-👨‍💻 Proficiency    :  Multiple Programming Languages, Frameworks, And Tools
+👨‍💻 Proficiency    : Multiple Programming Languages, Frameworks, And Tools
 
 📅 2025 Goals     : ◻️ Master A Framework Or Ecosystem  ◻️ Contribute To 5 Open Source Projects
                     ◻️ Create My Own 🧱 🔗 Network      ✓ Strengthen My DevOps & CI/CD Skills
