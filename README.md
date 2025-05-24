@@ -17,7 +17,7 @@
 
 🛡️ Certification  : Graduate Of Google's Cybersecurity Professional Certificate (Coursera)
 
-📜 Achievements   : Holder Of 54+ Certifications (Courses & Capstone Projects)
+📜 Achievements   : Holder Of 50+ Certifications (Courses & Capstone Projects)
 
 🧠 Passion        : Continuous Learning & Solving Real-World Problems
 
