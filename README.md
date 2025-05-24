@@ -276,6 +276,11 @@
 
 </details>
 
+## 💬 Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?quote=The%20Matrix%20Is%20Everywhere.%20It%20Is%20All%20Around%20Us.&author=Morpheus&theme=dark&type=horizontal&border=true" />
+</p>
+
 ## 📊 Stats
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DecryptMike&theme=chartreuse_dark" width="49%" />
