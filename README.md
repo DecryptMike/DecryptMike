@@ -278,10 +278,10 @@
 
 ## 📊 Stats
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DecryptMike&theme=chartreuse_dark" width="35%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DecryptMike&theme=chartreuse_dark&utcOffset=8" width="35%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DecryptMike&theme=chartreuse_dark" width="35%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DecryptMike&theme=chartreuse_dark" width="35%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DecryptMike&theme=chartreuse_dark" width="49%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DecryptMike&theme=chartreuse_dark&utcOffset=8" width="49%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DecryptMike&theme=chartreuse_dark" width="49%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DecryptMike&theme=chartreuse_dark" width="49%" />
 </p>
 
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DecryptMike&theme=chartreuse_dark" alt="Profile Details" width="78%" /></p>
@@ -289,7 +289,7 @@
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DecryptMike&theme=darkhub&no-bg=false&no-frame=false&margin-w=40&margin-h=40&column=4" alt="DecryptMike GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DecryptMike&theme=darkhub&no-bg=false&no-frame=false&margin-w=30&margin-h=30&column=4" alt="DecryptMike GitHub Trophy" />
 </p>
 
 ## 🐍 Contribution Snake
