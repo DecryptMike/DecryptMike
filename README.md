@@ -26,6 +26,12 @@
 👨‍💻 Proficiency    : Multiple Programming Languages, Frameworks, And Tools
 
 ```
+## 📅 2025 Goals
+
+- [ ] Master A Framework Or Ecosystem
+- [ ] Contribute To 10 Open Source Projects 
+- [x] Strengthen My DevOps & CI/CD Skills
+- [ ] Create My Own 🧱 🔗 Network 
 
 ## 📜 Certifications & [Verification](https://drive.google.com/drive/folders/1LS1OOaF6PA33uxKgK3WIWN73c1YzJ4LE?usp=drive_link) 
 
