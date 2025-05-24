@@ -284,7 +284,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DecryptMike&theme=chartreuse_dark" width="49%" />
 </p>
 
-<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DecryptMike&theme=chartreuse_dark" alt="Profile Details" width="78%" /></p>
+<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DecryptMike&theme=chartreuse_dark" alt="Profile Details" width="98%" /></p>
 
 ## 🏆 Trophies
 
@@ -295,7 +295,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="DecryptMike Custom Snk.gif" width="700" />
+  <img src="DecryptMike Custom Snk.gif" width="1000" />
 </p>
 
 ## 📫 Contact
