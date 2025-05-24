@@ -313,6 +313,8 @@ Personal
 ## 📄 License
 
 This repository is licensed under the (**Default Copyright Law**) which prohibits the redistribution or reuse of its content.
+<br>
+<br>
 
 <p align="center">
    <img src="https://img.shields.io/badge/Focus-Cybersecurity-0F9D58?style=for-the-badge&logo=datadog&logoColor=white"/>
