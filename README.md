@@ -1,4 +1,4 @@
-![Copyright](https://img.shields.io/badge/Copyright-©%202025-black?style=for-the-badge)
+![Copyright](https://img.shields.io/badge/Copyright-©%202025-black?style=for-the-badge) <img src="https://komarev.com/ghpvc/?username=DecryptMike&style=for-the-badge&color=00FF00&labelColor=555555&label=Access%20Log" alt="Profile Views" />
 
 <p align="center">
   <img src="H4ck3rByt3s.gif" alt="Decrypt Mike Rain Animation" width="1100" height="300" />
@@ -277,19 +277,19 @@
 </details>
 
 ## 📊 Stats
-
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=DecryptMike&style=flat-square&color=00FF00" alt="Profile Views" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DecryptMike&layout=compact&hide_border=true&title_color=00FF00&text_color=00FF00&bg_color=000000" alt="Top Languages" /><br>
-   <img src="https://github-readme-stats.vercel.app/api?username=DecryptMike&show_icons=true&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=00FF00&bg_color=000000" alt="Decrypt Mike's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DecryptMike&hide_border=true&currStreakLabel=00FF00&fire=00FF00&ring=00FF00&sideNums=00FF00&currStreakNum=00FF00&sideLabels=00FF00&dates=00FF00&background=000000" alt="GitHub Streak" />
-
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DecryptMike&theme=chartreuse_dark" width="35%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DecryptMike&theme=chartreuse_dark&utcOffset=8" width="35%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DecryptMike&theme=chartreuse_dark" width="35%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DecryptMike&theme=chartreuse_dark" width="35%" />
 </p>
+
+<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DecryptMike&theme=chartreuse_dark" alt="Profile Details" width="78%" /></p>
 
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DecryptMike&theme=darkhub&no-bg=false&no-frame=false&margin-w=15&margin-h=15&column=4" alt="DecryptMike GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DecryptMike&theme=darkhub&no-bg=false&no-frame=false&margin-w=40&margin-h=40&column=4" alt="DecryptMike GitHub Trophy" />
 </p>
 
 ## 🐍 Contribution Snake
