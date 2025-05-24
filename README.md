@@ -1,4 +1,4 @@
-![Copyright](https://img.shields.io/badge/Copyright-©%202025-black?style=for-the-badge) <img src="https://komarev.com/ghpvc/?username=DecryptMike&style=for-the-badge&color=00FF00&labelColor=555555&label=Access%20Log" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=DecryptMike&style=for-the-badge&color=00FF00&labelColor=555555&label=Access%20Log" alt="Profile Views" /> ![Copyright](https://img.shields.io/badge/Copyright-©%202025-black?style=for-the-badge) 
 
 <p align="center">
   <img src="H4ck3rByt3s.gif" alt="Decrypt Mike Rain Animation" width="1100" height="300" />
