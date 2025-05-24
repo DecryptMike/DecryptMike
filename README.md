@@ -25,7 +25,11 @@
 
 👨‍💻 Proficiency    : Multiple Programming Languages, Frameworks, And Tools
 
+📅 2025 Goals     : [ ]Master A Framework Or Ecosystem      [ ]Contribute To 5 Open Source Projects
+                    [ ]Create My Own 🧱 🔗 Network          [x]Strengthen My DevOps & CI/CD Skills
+
 ```
+
 ## 📜 Certifications & [Verification](https://drive.google.com/drive/folders/1LS1OOaF6PA33uxKgK3WIWN73c1YzJ4LE?usp=drive_link) 
 
 <details>
@@ -279,13 +283,6 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?quote=Never%20Stop%20Learning%20Because%20Life%20Never%20Stops%20Teaching&author=Anonymous&theme=dark&type=horizontal&border=true" alt="Learning Quote" />
 </div>
-
-## 📅 2025 Goals
-
-- [ ] Master A Framework Or Ecosystem
-- [ ] Contribute To 5 Open Source Projects 
-- [x] Strengthen My DevOps & CI/CD Skills
-- [ ] Create My Own 🧱 🔗 Network 
 
 ## 📊 Stats
 <p align="center">
