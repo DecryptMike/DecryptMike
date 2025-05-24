@@ -276,9 +276,9 @@
 
 </details>
 
-## 💬 Quote
+## 💬 Motivation
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?quote=The%20Matrix%20Is%20Everywhere.%20It%20Is%20All%20Around%20Us.&author=Morpheus&theme=dark&type=horizontal&border=true" alt="Matrix Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?quote=Never%20Stop%20Learning%20Because%20Life%20Never%20Stops%20Teaching&author=Anonymous&theme=dark&type=horizontal&border=true" alt="Learning Quote" />
 </div>
 
 ## 📊 Stats
