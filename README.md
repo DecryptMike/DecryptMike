@@ -151,7 +151,7 @@
 
 ## 🔧 My Services 
 
-<a href="https://h4ck3rbyt3s.systeme.io/websitepackage"><img src="https://img.shields.io/badge/Website%20Service-75ec54?style=for-the-badge&logo=globe&logoColor=black" alt="Website Service Badge"/></a><br>Custom Web Builds For Personal Or Companies
+<a href="https://h4ck3rbyt3s.systeme.io/websitepackage"><img src="https://img.shields.io/badge/Website%20Service-75ec54?style=for-the-badge&logo=globe&logoColor=black" alt="Website Service Badge"/></a><br>Custom Web Builds For Personal Or Business
 
 <a href="https://app.usebraintrust.com/r/mike1420/"><img src="https://img.shields.io/badge/Mentor%20Service-75ec54?style=for-the-badge&logo=book&logoColor=black" alt="Mentor Service Badge"/></a><br>1 On 1 Mentorship • Resume Help • Portfolio Review • Start Up Tech Projects
 
