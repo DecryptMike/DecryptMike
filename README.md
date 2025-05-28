@@ -324,25 +324,25 @@
   <img src="https://quotes-github-readme.vercel.app/api?quote=Discipline%20leads%20to%20habits.%20Habits%20lead%20to%20consistency.%20Consistency%20leads%20to%20growth.&author=Anonymous&theme=dark&type=horizontal&border=true" alt="Growth Quote" />
 </div>
 
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DecryptMike&theme=darkhub&no-bg=false&no-frame=false&margin-w=50&margin-h=50&column=4" alt="DecryptMike GitHub Trophy" />
+</p>
+
 ## 📊 Stats
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DecryptMike&theme=chartreuse_dark" width="49%" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DecryptMike&theme=chartreuse_dark&utcOffset=8" width="49%" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DecryptMike&theme=chartreuse_dark" width="49%" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DecryptMike&theme=chartreuse_dark" width="49%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DecryptMike&theme=chartreuse_dark" width="100%" />
-</p>
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DecryptMike&theme=darkhub&no-bg=false&no-frame=false&margin-w=30&margin-h=30&column=4" alt="DecryptMike GitHub Trophy" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DecryptMike&theme=chartreuse_dark" width="98%" />
 </p>
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="DecryptMike Custom Snk.gif" width="950" />
+  <img src="DecryptMike Custom Snk.gif" width="980" />
 </p>
 
 ## 📫 Contact
