@@ -342,7 +342,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="DecryptMike Custom Snk.gif" width="945" />
+  <img src="DecryptMike Custom Snk.gif" width="845" />
 </p>
 
 ## 📫 Contact
