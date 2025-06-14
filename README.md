@@ -21,7 +21,7 @@
 
 🧠 Passion        : Continuous Learning & Solving Real-World Problems
 
-🔒 Career Focus   : Cybersecurity • Software Engineer • Web Development • AI/ML 
+🔒 Career Focus   : Cybersecurity • Computer Programmer • Website/Software Development • AI/ML Engineer 
 
 👨‍💻 Proficiency    : Multiple Programming Languages, Frameworks, And Tools
    -------------------------------------------------------------------------------------------
