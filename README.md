@@ -148,7 +148,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/DecryptMike/DecryptMike-AI-Backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DecryptMike&repo=DecryptMike-AI-Backend&bg_color=000000&border_color=75ec54&title_color=75ec54&text_color=ffffff&cache_buster=1" width="46%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DecryptMike&repo=DecryptMike-AI-Backend&bg_color=000000&border_color=75ec54&title_color=75ec54&text_color=ffffff&cache_buster=1" width="48%"/>
     </a>
 </p>
 
