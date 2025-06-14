@@ -144,21 +144,21 @@
 
 <p align="center">
   <a href="https://github.com/DecryptMike/DecryptMike-Log-Analyzer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DecryptMike&repo=DecryptMike-Log-Analyzer&bg_color=000000&border_color=75ec54&title_color=75ec54&text_color=ffffff" width="42%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DecryptMike&repo=DecryptMike-Log-Analyzer&bg_color=000000&border_color=75ec54&title_color=75ec54&text_color=ffffff" width="49%"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/DecryptMike/DecryptMike-AI-Backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DecryptMike&repo=DecryptMike-AI-Backend&bg_color=000000&border_color=75ec54&title_color=75ec54&text_color=ffffff&cache_buster=1" width="42%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DecryptMike&repo=DecryptMike-AI-Backend&bg_color=000000&border_color=75ec54&title_color=75ec54&text_color=ffffff&cache_buster=1" width="49%"/>
     </a>
 </p>
 
 <p align="center"> 
   <a href="https://github.com/DecryptMike/DecryptMike-SaaS-Starter-Kit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DecryptMike&repo=DecryptMike-SaaS-Starter-Kit&bg_color=000000&border_color=75ec54&title_color=75ec54&text_color=ffffff" width="42%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DecryptMike&repo=DecryptMike-SaaS-Starter-Kit&bg_color=000000&border_color=75ec54&title_color=75ec54&text_color=ffffff" width="49%"/>
   </a>
   &nbsp;&nbsp; 
   <a href="https://github.com/DecryptMike/DecryptMike-SecureFileTransfer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DecryptMike&repo=DecryptMike-SecureFileTransfer&bg_color=000000&border_color=75ec54&title_color=75ec54&text_color=ffffff&cache_buster=1" width="42%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DecryptMike&repo=DecryptMike-SecureFileTransfer&bg_color=000000&border_color=75ec54&title_color=75ec54&text_color=ffffff&cache_buster=1" width="49%"/>
   </a>
 </p>
 
@@ -342,7 +342,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="DecryptMike Custom Snk.gif" width="830" />
+  <img src="DecryptMike Custom Snk.gif" width="990" />
 </p>
 
 ## 📫 Contact
