@@ -8,7 +8,7 @@
   <img src="DecryptMike.png" alt="Decrypt Mike Logo" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&letterSpacing=4px&pause=1000&color=72EC54&center=true&width=1100&height=60&lines=...+Cybersecurity;...+Computer+Programmer;...+Website+%26+Software+Development;...+AI+Engineer+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=54&letterSpacing=4px&pause=1000&color=72EC54&center=true&width=1100&height=80&lines=...+Cybersecurity;...+Computer+Programmer;...+Website+%26+Software+Development;...+AI%2FML+Engineer+)](https://git.io/typing-svg)
 
 ## 👾 About
 
