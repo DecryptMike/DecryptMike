@@ -202,6 +202,8 @@
   <img src="./assets/MongoDB.png" alt="MongoDB" width="40" height="40"/><br>
   <img src="./assets/MySQL.png" alt="MySQL" width="40" height="40"/>
   <img src="./assets/Node.js.png" alt="Node" width="40" height="40"/>
+  <img src="./assets/Kubernetes.png" alt="Kubernetes" width="40" height="40"/>
+  <img src="./assets/Kotlin.png" alt="Kotlin" width="40" height="40"/>
 </p>
 
 ## Programs That I Use 
@@ -224,6 +226,8 @@
   <img src="./assets/chrome.png" alt="Chrome" width="40" height="40"/>
   <img src="./assets/Nmap.png" height="40" alt="Nmap logo" />
   <img src="./assets/nessus.png" height="40" alt="Nessus logo" />
+  <img src="./assets/Azure Devops.png" height="40" alt="Azure logo" />
+  <img src="./assets/GitLab.png" height="40" alt="GitLab logo" />
 </p>
 
 ## 🛠 Skills
