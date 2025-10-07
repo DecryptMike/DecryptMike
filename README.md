@@ -359,9 +359,11 @@ This repository is licensed under the (**Default Copyright Law**) which prohibit
 
 <p align="center">
    <img src="https://img.shields.io/badge/Focus-Cybersecurity-0F9D58?style=for-the-badge&logo=datadog&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Focus-Web%20Development-1572B6?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/FOCUS-ARTIFICIAL%20INTELLIGENCE-636363?style=for-the-badge&labelColor=4B4B4B&color=9333EA&logo=openai&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Focus-Software%20Development-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
    <img src="https://img.shields.io/badge/Focus-Computer%20Programming-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+   <img src="https://img.shields.io/badge/Focus-Web%20Development-1572B6?style=for-the-badge&logo=html5&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Focus-Software%20Development-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
+   <img src="https://img.shields.io/badge/FOCUS-ARTIFICIAL%20INTELLIGENCE-636363?style=for-the-badge&labelColor=4B4B4B&color=9333EA&logo=openai&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-FFA500?style=for-the-badge&logo=tensorflow&logoColor=black"/>
+  <br>
    <img src="https://img.shields.io/badge/Made%20By-DecryptMike-limegreen?style=for-the-badge&logo=github"/>
 </p>
