@@ -326,10 +326,13 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/decryptmike">
-    <img src="https://img.shields.io/badge/Professional-DecryptMike-75ec54?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn Badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-DecryptMike-75ec54?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn Badge" />
   </a>
   <a href="https://h4ck3rbyt3s.systeme.io/profile">
     <img src="https://img.shields.io/badge/Personal-H4ck3rbyt3s-75ec54?style=for-the-badge&logoColor=000000" alt="Personal Badge" />
+  </a>
+  <a href="https://gitlab.com/decryptmike">
+    <img src="https://img.shields.io/badge/GitLab-DecryptMike-75ec54?style=for-the-badge&logoColor=000000" alt="GitLab Badge" />
   </a>
 </p>
 
