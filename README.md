@@ -8,20 +8,18 @@
   <img src="DecryptMike.png" alt="Decrypt Mike Logo" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=48&letterSpacing=4px&pause=1000&color=72EC54&center=true&width=1100&height=80&lines=...+Cybersecurity;...+Computer+Programmer;...+Website+%26+Software+Development;...+AI%2FML+Engineer+)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=48&letterSpacing=4px&pause=1000&color=72EC54&center=true&width=1100&height=80&lines=...+Software+Engineer;...+AI/ML+Integrator;...+Cloud+Solutions+Architect;...+Secure+Systems+Designer+)
 
 ## 👾 About
 
 ```yaml
 🎓 Education      : B.S. In Software Engineering @ WGU
 
-🛡️ Certification  : Graduate Of Google's Cybersecurity Professional Certificate (Coursera)
-
 📜 Achievements   : Holder Of 50+ Certifications (Courses & Capstone Projects)
 
 🧠 Passion        : Continuous Learning & Solving Real-World Problems
 
-🔒 Career Focus   : Software Engineer • AI/ML Integration • Cloud Solutions • Secure Systems Design
+🔒 Career Focus   : Software Engineer • AI/ML Integrator • Cloud Solutions Architect • Secure Systems Designer
 
 👨‍💻 Proficiency    : Multiple Programming Languages, Frameworks, And Tools
    -------------------------------------------------------------------------------------------
@@ -162,10 +160,6 @@
   </a>
 </p>
 
-## 🔧 My Service
-
-<a href="https://h4ck3rbyt3s.systeme.io/websitepackage"><img src="https://img.shields.io/badge/Website%20Service-75ec54?style=for-the-badge&logo=globe&logoColor=black" alt="Website Service Badge"/></a><br>Custom Web Builds For Personal Or Business
-
 ## Technologies & Languages 
 
 <p align="center">
@@ -229,94 +223,76 @@
 
 ## 🛠 Skills
 
-<details>
-<summary><strong>🛡️ Cybersecurity</strong></summary>
-  
-- Network Security - Wireshark (Advanced), Nmap (Intermediate), Suricata (Intermediate), Tcpdump (Intermediate)
+</details>
 
-- Security Information And Event Management (SIEM) - Splunk (Intermediate), ELK Stack (Basic)
+<details> 
+<summary><strong>⚙️ Software Engineering & Programming</strong></summary>
 
-- Cloud Security - AWS Security Services (Basic), Azure Security Center (Basic)
+- Languages: Python, JavaScript/TypeScript, Java, C++, Go, Rust
 
-- Vulnerability Assessment - Nessus (Basic), OpenVAS (Basic)
+- Frameworks: FastAPI, React, Next.js, Node.js, Django, Flask, Express
 
-- Security Automation - Python Scripting For Security Tasks
+- APIs & Architecture: RESTful, Microservices, Event-Driven Systems
 
-- Log Analysis - Google Chronicle (Basic)
+- Version Control: Git, GitHub, GitLab
 
 </details>
 
-<details>
-<summary><strong>📈 Data Analysis</strong></summary>
+<details> 
+<summary><strong>📊 Data Science & Machine Learning</strong></summary>
 
-- Data Wrangling - Pandas, NumPy
+- Data Processing: Pandas, NumPy, SciPy
 
-- Statistical Analysis - SciPy, Statsmodels
+- Machine Learning: Scikit-learn, TensorFlow, Keras
 
-- Machine Learning - Scikit-learn, TensorFlow (Basic), Keras (Basic)
+- NLP & AI Models: Hugging Face, OpenAI APIs
 
-- Data Visualization - Matplotlib, Seaborn, Tableau, Power BI
+- Data Visualization: Matplotlib, Seaborn, Tableau, Power BI
 
-- Databases - SQL, MySQL, PostgreSQL, MongoDB (Basic)
+- Databases: PostgreSQL, MySQL, MongoDB
 
-</details>
+</details> 
 
-<details>
-<summary><strong>⚙️ Programming</strong></summary>
+<details> 
+<summary><strong>☁️ Cloud & DevOps</strong></summary>
 
-- Languages - Python (Advanced), JavaScript (Advanced), Java (Intermediate), C++ (Intermediate), Go (Basic), Rust (Basic)
+- Cloud Platforms: AWS, Azure, Google Cloud Platform
 
-- Frameworks & Libraries - React (Advanced), Angular (Intermediate), Node.js (Intermediate), Django (Intermediate)
-                           Flask (Intermediate), Pandas (Intermediate), NumPy (Intermediate), Scikit-learn (Intermediate)
+- Containerization: Docker, Kubernetes, Terraform
 
-- Markup Languages - HTML (Advanced), CSS (Advanced), XML (Intermediate), JSON (Intermediate)
+- CI/CD & Automation: Jenkins, GitHub Actions, Infrastructure as Code
 
-- Database Interaction - SQL (Advanced), NoSQL (MongoDB Basic)
+- Virtualization: VMware, VirtualBox
 
-</details>
+</details> 
 
-<details>
-<summary><strong>🖥️ Software Applications</strong></summary>
+<details> 
+<summary><strong>🛡️ Cybersecurity & Secure Systems</strong></summary>
 
-- Development Tools - Docker (Intermediate), Git (Advanced), Jenkins (Intermediate), VS Code (Advanced)
+- Network Security: Wireshark, Nmap, Suricata, Tcpdump
 
-- Virtualization & Containerization - VirtualBox (Intermediate), VMware (Intermediate)
+- SIEM & Threat Monitoring: Splunk, ELK Stack, Google Chronicle
 
-- Network Tools - PuTTY (Intermediate), Wireshark (Advanced)
+- Vulnerability Assessment: Nessus, OpenVAS
 
-- Data Visualization - Tableau (Intermediate), Power BI (Intermediate)
+- Security Automation: Python scripting for scans & log analysis
 
-- Cloud Platforms - AWS (Basic), Azure (Basic), Google Cloud Platform (Basic)
+- Cloud Security: AWS Security Hub, Azure Security Center
 
-</details>
+- Frameworks: OWASP, Zero Trust, RBAC, IAM
 
-<details>
-<summary><strong>🌐 Website Development</strong></summary>
+</details> 
 
-- Front-End - HTML5, CSS3, JavaScript (ES6+), React, Angular, Vue.js (Basic)
+<details> 
+<summary><strong>🌐 Web Development</strong></summary>
 
-- Back-End - Node.js, Express.js, Django, Flask, PHP
+- Front-End: HTML5, CSS3, React, Next.js, Vue.js, Angular
 
-- Content Management Systems (CMS) - WordPress (Intermediate), Drupal (Basic)
+- Back-End: Node.js, Express.js, Django, Flask, PHP
 
-- Version Control - Git, GitHub/GitLab
+- CMS: WordPress, Drupal
 
-- Web Servers - Apache, Nginx
-
-</details>
-
-<details>
-<summary><strong>✅ Key Improvements</strong></summary>
-
-- Categorization - Maintained Clear Categories For Easy Readability
-  
-- Relevance - Emphasized Tools And Technologies Directly Related To My Specified Areas
-  
-- Depth - Provided A Mix Of Advanced, Intermediate, And Basic Skills To Showcase My Well-Rounded Expertise
-  
-- Modern Tools - Included My Up-To-Date Technologies Like Docker, Cloud Platforms, & Modern JavaScript Frameworks
-  
-- Balance - Showcasing My Balance Between Development, Data, And Security Skills
+- Web Servers: Apache, Nginx
 
 </details>
 
@@ -351,6 +327,9 @@
 <a href="https://h4ck3rbyt3s.systeme.io/profile"><img src="https://img.shields.io/badge/H4ck3rByt3s-75ec54?style=for-the-badge&logoColor=black"/></a><br>
 Personal
 
+<a href="[https://h4ck3rbyt3s.systeme.io/profile][https://www.linkedin.com/in/h4ck3rbyt3s]"><img src="https://img.shields.io/badge/LinkedIn-75ec54?style=for-the-badge&logoColor=black"/></a><br>
+Professional
+
 ## 📄 License
 
 This repository is licensed under the (**Default Copyright Law**) which prohibits the redistribution or reuse of its content.
@@ -367,3 +346,5 @@ This repository is licensed under the (**Default Copyright Law**) which prohibit
   <br>
    <img src="https://img.shields.io/badge/Made%20By-DecryptMike-limegreen?style=for-the-badge&logo=github"/>
 </p>
+
+
