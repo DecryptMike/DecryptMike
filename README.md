@@ -324,11 +324,14 @@
 
 ## 📫 Contact
 
-<a href="https://h4ck3rbyt3s.systeme.io/profile"><img src="https://img.shields.io/badge/H4ck3rByt3s-75ec54?style=for-the-badge&logoColor=black"/></a><br>
-Personal
-
-<a href="[https://h4ck3rbyt3s.systeme.io/profile][https://www.linkedin.com/in/h4ck3rbyt3s]"><img src="https://img.shields.io/badge/LinkedIn-75ec54?style=for-the-badge&logoColor=black"/></a><br>
-Professional
+<p align="center">
+  <a href="https://linkedin.com/in/decryptmike">
+    <img src="https://img.shields.io/badge/Professional-DecryptMike-75ec54?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://h4ck3rbyt3s.systeme.io/profile">
+    <img src="https://img.shields.io/badge/Personal-H4ck3rbyt3s-75ec54?style=for-the-badge&logoColor=000000" alt="Personal Badge" />
+  </a>
+</p>
 
 ## 📄 License
 
@@ -346,5 +349,6 @@ This repository is licensed under the (**Default Copyright Law**) which prohibit
   <br>
    <img src="https://img.shields.io/badge/Made%20By-DecryptMike-limegreen?style=for-the-badge&logo=github"/>
 </p>
+<br>
 
-
+<p align="center"><i>“Access Granted. Welcome To The Network.”</i></p>
