@@ -228,7 +228,7 @@
 <details> 
 <summary><strong>⚙️ Software Engineering & Programming</strong></summary>
 
-- Languages: Python, JavaScript/TypeScript, Java, C++, Go, Rust
+- Languages: Python, JavaScript/TypeScript, Java, C++, GO, Rust
 
 - Frameworks: FastAPI, React, Next.js, Node.js, Django, Flask, Express
 
@@ -260,7 +260,7 @@
 
 - Containerization: Docker, Kubernetes, Terraform
 
-- CI/CD & Automation: Jenkins, GitHub Actions, Infrastructure as Code
+- CI/CD & Automation: Jenkins, GitHub Actions, Infrastructure As Code
 
 - Virtualization: VMware, VirtualBox
 
@@ -275,7 +275,7 @@
 
 - Vulnerability Assessment: Nessus, OpenVAS
 
-- Security Automation: Python scripting for scans & log analysis
+- Security Automation: Python Scripting For Scans & Log Analysis
 
 - Cloud Security: AWS Security Hub, Azure Security Center
 
