@@ -348,7 +348,6 @@ This repository is licensed under the (**Default Copyright Law**) which prohibit
   <img src="https://img.shields.io/badge/Focus-Cloud%20Native%20Development-F9A825?style=for-the-badge&logo=cloudflare&logoColor=000000"/>
   <img src="https://img.shields.io/badge/Focus-Secure%20Systems%20Design-7E57C2?style=for-the-badge&logo=datadog&logoColor=000000"/>
   <img src="https://img.shields.io/badge/Focus-LLM%20Applications-00897B?style=for-the-badge&logo=python&logoColor=000000"/>
-  <br><br>
    <img src="https://img.shields.io/badge/Made%20By-DecryptMike-limegreen?style=for-the-badge&logo=github"/>
 
 </p>
