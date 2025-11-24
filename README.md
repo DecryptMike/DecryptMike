@@ -17,7 +17,7 @@
 
 🧠 Passion        : Continuous Learning & Solving Real-World Problems
 
-🔒 Career Focus   : Software Engineer • AI/ML Integrator • Cloud Solutions Architect • Secure Systems Designer
+🔒 Career Focus   : Software Engineer • AI/ML Integration Engineer • Cloud-Native Architect • Secure Systems Engineer
 
 👨‍💻 Proficiency    : Multiple Programming Languages, Frameworks, And Tools
    -------------------------------------------------------------------------------------------
