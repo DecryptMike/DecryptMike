@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=DecryptMike&style=for-the-badge&color=brightgreen&labelColor=555555&label=Access%20Log" alt="Profile Views" /> ![Copyright](https://img.shields.io/badge/Copyright-©%202025-black?style=for-the-badge) 
+<img src="https://komarev.com/ghpvc/?username=DecryptMike&style=for-the-badge&color=brightgreen&labelColor=555555&label=Access%20Log" alt="Profile Views" /> ![Copyright](https://img.shields.io/badge/Copyright-©%202026-black?style=for-the-badge) 
 
 <p align="center">
   <img src="H4ck3rByt3s.gif" alt="Decrypt Mike Rain Animation" width="1100" height="300" />
@@ -21,7 +21,7 @@
 
 👨‍💻 Proficiency    : Multiple Programming Languages, Frameworks, And Tools
    -------------------------------------------------------------------------------------------
-📅 2025 Goals     : ✓ Master A Framework Or Ecosystem  ◻️ Contribute To 5 Open Source Projects
+📅 2026 Goals     : ✓ Master A Framework Or Ecosystem  ◻️ Contribute To 5 Open Source Projects
                     ◻️ Create My Own 🧱 🔗 Network     ✓ Strengthen My DevOps & CI/CD Skills
 
 ```
