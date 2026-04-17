@@ -26,7 +26,7 @@
 
 ```
 
-## 📜 Certifications & [Verification](https://drive.google.com/drive/folders/1LS1OOaF6PA33uxKgK3WIWN73c1YzJ4LE?usp=drive_link) 
+## 📜 Certifications
 
 <details>
 <summary><strong>🛡️ Cybersecurity</strong></summary><br/>
